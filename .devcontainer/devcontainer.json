@@ -1,0 +1,8 @@
+// Documentation:
+//  - https://github.com/devcontainers/images/tree/main/src/jekyll
+//  - https://github.com/devcontainers/features/tree/main/src/node
+
+{
+	"name": "Jekyll",
+	"image": "mcr.microsoft.com/devcontainers/jekyll"
+}
