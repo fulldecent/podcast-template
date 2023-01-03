@@ -13,8 +13,9 @@ Subscribe at:
 
           <p>Subscribe on <a href="https://podcasts.apple.com/us/podcast/community-service-hour/id1581000008">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjY4ZjY0MC9wb2RjYXN0L3Jzcw==">Google Podcasts</a>, <a href="https://open.spotify.com/show/6Z0ZQZ5Z1Z1Z1Z1Z1Z1Z1Z">Spotify</a>, <a href="https://www.stitcher.com/podcast/community-service-hour">Stitcher</a>, <a href="https://www.breaker.audio/community-service-hour">Breaker</a>, <a href="https://pca.st/itunes/1581000008">Pocket Casts</a>, <a href="https://radiopublic.com/community-service-hour-GKXVJd">RadioPublic</a>, <a href="https://www.listennotes.com/podcasts/community-service-hour-8Z8Y8Z8Y8Z8Y8Z8Y8Z8Y8Z8Y/">Listen Notes</a>, <a href="https://overcast.fm/itunes1581000008/community-service-hour">Overcast</a>, <a href="https://www.podchaser.com/podcasts/community-service-hour-1581000008">Podchaser</a>, <a href="https://www.podbean.com/podcast-detail/2q7xv-9b6e8/Community-Service-Hour-Podcast">Podbean</a>, <a href="https://www.listennotes.com/podcasts/community-service-hour-8Z8Y8Z8Y8Z8Y8Z8Y8Z8Z8Y/">Listen Notes</a>, <a href="https://www.listennotes.com/podcasts/community-service-hour-8Z8Y8Z8Y8Z8Y8[...]"></a>
 
-
 ...
+
+create podcast in apple: https://podcasters.apple.com/
 
 ## NOTES
 
