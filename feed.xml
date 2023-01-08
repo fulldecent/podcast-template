@@ -9,7 +9,7 @@
   <channel>
     <title>{{ site.data.channel.title | escape }}</title>
     <description>{{ site.data.channel.description | escape }}</description>
-    <itunes:image>{{ site.data.channel.itunes-image }}</itunes:image>
+    <itunes:image href="{{ site.data.channel.itunes-image }}" />
     <language>{{ site.data.channel.language | escape }}</language>
     <itunes:category text="{{ site.data.channel.itunes-category | escape }}"></itunes:category>
     <itunes:explicit>{{ site.data.channel.itunes-explicit | escape }}</itunes:explicit>
