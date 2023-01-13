@@ -36,7 +36,6 @@
       <itunes:explicit>{{ episode.itunes-explicit | escape }}</itunes:explicit>
       <itunes:episode>{{ episode.itunes-episode | escape }}</itunes:episode>
       <itunes:episodeType>{{ episode.itunes-episodeType | escape }}</itunes:episodeType>
-      <!-- Get description from the Jekyll post body, using CDATA, limit to 255 characters -->
       <description>
         <![CDATA[
           {{ episode.content | strip_html | strip_newlines | truncate: 255 }}

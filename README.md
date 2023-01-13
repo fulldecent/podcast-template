@@ -1,25 +1,22 @@
 # podcast.phor.net
 
-This is a reusable project template for publishing your YouTube channel or other audio files as a podcast. It uses Jekyll to generate the RSS feed and HTML pages, and GitHub Pages to host the site.
+This is a reusable project template to self-publish your YouTube channel or other audio files as a podcast. Output fully complies with Apple Podcasts for Creators specifications.
 
----
+We use Jekyll to generate the RSS feed and HTML pages, and GitHub Pages to host the site. And you would go around registering your podcast with iTunes, Google Play, and other podcast directories.
 
-TODO: add subscribe links
+The data (_data, _episodes) in this repository are for the NFT/Web3 Community Service hour. 
 
+Subscribe to Community Service Hour at:
 
-This repo builds the RSS feed for the Community Service Hour podcast.
-
-Subscribe at:
-
-          <p>Subscribe on <a href="https://podcasts.apple.com/us/podcast/community-service-hour/id1581000008">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjY4ZjY0MC9wb2RjYXN0L3Jzcw==">Google Podcasts</a>, <a href="https://open.spotify.com/show/6Z0ZQZ5Z1Z1Z1Z1Z1Z1Z1Z">Spotify</a>, <a href="https://www.stitcher.com/podcast/community-service-hour">Stitcher</a>, <a href="https://www.breaker.audio/community-service-hour">Breaker</a>, <a href="https://pca.st/itunes/1581000008">Pocket Casts</a>, <a href="https://radiopublic.com/community-service-hour-GKXVJd">RadioPublic</a>, <a href="https://www.listennotes.com/podcasts/community-service-hour-8Z8Y8Z8Y8Z8Y8Z8Y8Z8Y8Z8Y/">Listen Notes</a>, <a href="https://overcast.fm/itunes1581000008/community-service-hour">Overcast</a>, <a href="https://www.podchaser.com/podcasts/community-service-hour-1581000008">Podchaser</a>, <a href="https://www.podbean.com/podcast-detail/2q7xv-9b6e8/Community-Service-Hour-Podcast">Podbean</a>, <a href="https://www.listennotes.com/podcasts/community-service-hour-8Z8Y8Z8Y8Z8Y8Z8Y8Z8Z8Y/">Listen Notes</a>, <a href="https://www.listennotes.com/podcasts/community-service-hour-8Z8Y8Z8Y8Z8Y8[...]"></a>
-
-...
-
-create podcast in apple: https://podcasters.apple.com/
-
-## NOTES
-
-See RSS feed at https://vanillajspodcast.com/
+- Apple Podcasts: https://podcasts.apple.com/us/podcast/community-service-hour/id1662422217
+- Google Podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LnBob3IubmV0L2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahcKEwignIL6m7f8AhUAAAAAHQAAAAAQBA
+- Spotify // NEED LINK
+- Stitcher // NEED LINK
+- Breaker // NEED LINK
+- Pocket Casts // NEED LINK
+- RadioPublic // NEED LINK
+- Overcast // NEED LINK
+- RSS: https://podcast.phor.net/feed.xml
 
 ## Audio encoding
 

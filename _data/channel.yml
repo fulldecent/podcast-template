@@ -1,8 +1,16 @@
-# All the content needed for the channel section of the RSS feed
-# Required tags are specified at https://help.apple.com/itc/podcasts_connect/#/itcb54353390
+# These are the channel-level tags for the podcast feed
+# We recognize Apple's specification for iTunes tags.
+# Defined at: https://help.apple.com/itc/podcasts_connect/#/itcb54353390
+
+
+# Required tags ################################################################
 
 title: "Community Service Hour"
+
+# TODO: this supports text for now, to support HTML we need to use CDATA
+# The maximum amount of text allowed for this tag is 4000 bytes.
 description: "We take questions, discuss the scene last week, blog and do projects. Live show every Tuesday @ 6pm New York time. With your cohosts William Entriken (lead author of ERC-721) and Daniel Tedesco."
+
 itunes-image: "https://podcast.phor.net/channel.jpg"
 language: "en-us"
 itunes-category: "Technology" # The repo only supports one category, but Apple supports multiple
