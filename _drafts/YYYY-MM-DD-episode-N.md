@@ -24,3 +24,27 @@ enclosure-length: NEED_FINAL_FILE_WITH_METADATA_FOR_THIS
 enclosure-type: "audio/x-m4a"
 itunes-duration: NEED_FINAL_FILE_WITH_METADATA_FOR_THIS
 ---
+
+
+
+That is incorrect. I need the following:
+```
+title: "[EPISODE NAME]" # Do not include the episode number here.
+description: "[DESCRIPTION]"
+pubDate: "[DDD, DD MM YYYY 18:00:00 -0500]" # 6pm New York time
+itunes-explicit: false
+itunes-episode: [EPISODE NUMBER]
+itunes-episodeType: Full
+
+# More info
+youtube-full: [YOUTUBE LINK]
+discussion: [WRAP UP TWEET LINK]
+
+# Timeline
+timeline:
+  - seconds: [FIRST TIMESTAMP]
+    title: [FIRST TIMESTAMP TITLE] # The titles here should not be in quotation marks.
+  - seconds: [SECOND TIMESTAMP]
+    title: [SECOND TIMESTAMP TITLE]
+  ...
+```
