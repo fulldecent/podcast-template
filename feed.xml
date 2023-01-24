@@ -38,7 +38,11 @@
       <itunes:episodeType>{{ episode.itunes-episodeType | escape }}</itunes:episodeType>
       <description>
         <![CDATA[
+{% if episode.description -%}
+          {{ episode.description | strip_html | strip_newlines | truncate: 255 }}
+{%- else -%}
           {{ episode.content | strip_html | strip_newlines | truncate: 255 }}
+{%- endif %}
         ]]>
       </description>
     </item>
