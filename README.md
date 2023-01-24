@@ -63,7 +63,9 @@ This site generates the ffmetadata files needed by ffmpeg to add chapter titles 
 
 We add this chapter metadata using:
 
-TODO: FINISH HERE
+```sh
+ffmpeg -i Episode\ 14\ FULL.m4a -i ~/Sites/podcast.phor.net/_site/ffmetadata/2022-03-08-episode-14.txt -map_metadata 1 -codec copy 2022-03-08-episode-14.m4a
+```
 
 ## Production notes
 
@@ -98,6 +100,34 @@ check:
 ```sh
 ffprobe -i episode.m4a -print_format json -show_chapters -loglevel error
 ```
+
+## Metadata
+
+Some tricks to update some metadata.
+
+```sh
+UUID=$(uuidgen); sed -i -e "s/guid: .*/guid: \"$UUID\"/" 2022-03-08-episode-14.md
+```
+
+```sh
+for a in *.md; do UUID=$(uuidgen); sed -i '' -e "s/guid: .*/guid: \"$UUID\"/" $a; done
+```
+
+Get an episode length in seconds, `itunes-duration`:
+
+```sh
+ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 2022-03-08-episode-14.m4a
+```
+
+Get an episode file size in bytes, `enclosure-length`:
+
+```sh
+wc -c 2022-03-08-episode-14.m4a
+```
+
+
+
+
 
 ## How to add an episode
 

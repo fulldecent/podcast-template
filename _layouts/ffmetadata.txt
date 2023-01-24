@@ -1,8 +1,8 @@
-{% comment %}
+{%- comment -%}
 This template implement ffmetadata format for an episode chapters.
 Specification: https://ffmpeg.org/ffmpeg-formats.html#Metadata-1
 TODO: this does not implement escaping of \n in the chapter title as required by spec
-{% endcomment %}
+{%- endcomment -%}
 ;FFMETADATA1
 {%- for chapter in page.timeline %}
 
