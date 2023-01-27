@@ -18,6 +18,11 @@ Subscribe to Community Service Hour at:
 - Overcast // NEED LINK
 - RSS: https://podcast.phor.net/feed.xml
 
+## Syndicate your podcast
+
+- Register on Spotify (no signup required!): https://podcasters.spotify.com/
+- Register on Apple Podcasts: https://podcasters.apple.com/
+
 ## Audio encoding
 
 We follow all Apple [audio requirements](https://podcasters.apple.com/support/893-audio-requirements) and, when appropriate, their recommendations.
