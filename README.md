@@ -10,7 +10,7 @@ Subscribe to Community Service Hour at:
 
 - Apple Podcasts: https://podcasts.apple.com/us/podcast/community-service-hour/id1662422217
 - Google Podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LnBob3IubmV0L2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahcKEwignIL6m7f8AhUAAAAAHQAAAAAQBA
-- Spotify // NEED LINK
+- Spotify: https://open.spotify.com/show/3k4PnmjfLiuNo9HpXemCdJ
 - Stitcher // NEED LINK
 - Breaker // NEED LINK
 - Pocket Casts // NEED LINK
