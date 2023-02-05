@@ -23,6 +23,7 @@ enclosure-url: "GET THIS EPISODE DATE AND NUMBER"
 enclosure-length: NEED_FINAL_FILE_WITH_METADATA_FOR_THIS
 enclosure-type: "audio/x-m4a"
 itunes-duration: NEED_FINAL_FILE_WITH_METADATA_FOR_THIS
+<<<<<<< HEAD
 ---
 
 
@@ -56,3 +57,6 @@ Raw data is here:
 ```
 
 Please generate a proper YAML output codeblock for the raw data according to the template format.
+=======
+---
+>>>>>>> 60438c05ce5abb4529defee34037a8120737e021
