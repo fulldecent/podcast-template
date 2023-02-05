@@ -23,7 +23,6 @@ enclosure-url: "GET THIS EPISODE DATE AND NUMBER"
 enclosure-length: NEED_FINAL_FILE_WITH_METADATA_FOR_THIS
 enclosure-type: "audio/x-m4a"
 itunes-duration: NEED_FINAL_FILE_WITH_METADATA_FOR_THIS
-<<<<<<< HEAD
 ---
 
 
@@ -45,8 +44,8 @@ discussion: [WRAP UP TWEET LINK] # Input the proper link found in the notes. Do 
 
 # Timeline
 timeline:
-  - seconds: [FIRST TIMESTAMP] # Please ensure that the timestamps are in seconds. Do not enclose in quotes.
-    title: [FIRST TIMESTAMP TITLE] # The titles here should not be in quotation marks. Do not enclose in quotes.
+  - seconds: [FIRST TIMESTAMP] # Please ensure that the timestamps are in cumulative seconds. Do not enclose in quotes.
+    title: [FIRST TIMESTAMP TITLE] # The titles here should not be in quotation marks. Do not enclose in quotes. I repeat:  DO NOT ANY OF THE TITLES ENCLOSE IN QUOTATION MARKS.
   - seconds: [SECOND TIMESTAMP]
     title: [SECOND TIMESTAMP TITLE]
   ...
@@ -57,6 +56,3 @@ Raw data is here:
 ```
 
 Please generate a proper YAML output codeblock for the raw data according to the template format.
-=======
----
->>>>>>> 60438c05ce5abb4529defee34037a8120737e021
