@@ -27,24 +27,32 @@ itunes-duration: NEED_FINAL_FILE_WITH_METADATA_FOR_THIS
 
 
 
-That is incorrect. I need the following:
+Can you generate the proper YAML output based on the below?
+
+Proper result is in this template format:
 ```
-title: "[EPISODE NAME]" # Do not include the episode number here.
-description: "[DESCRIPTION]"
+title: "[EPISODE NAME]" # Exclude the episode number, keep only the title.
+description: "[GENERATE AN INTRIGUING, TWO TWEET-LONG DESCRIPTION BASED ON THE EPISODE CONTENT]"
 pubDate: "[DDD, DD MM YYYY 18:00:00 -0500]" # 6pm New York time
 itunes-explicit: false
 itunes-episode: [EPISODE NUMBER]
 itunes-episodeType: Full
 
 # More info
-youtube-full: [YOUTUBE LINK]
-discussion: [WRAP UP TWEET LINK]
+youtube-full: [YOUTUBE LINK] # Input the proper link found in the notes. Do not enclose in quotes.
+discussion: [WRAP UP TWEET LINK] # Input the proper link found in the notes. Do not enclose in quotes.
 
 # Timeline
 timeline:
-  - seconds: [FIRST TIMESTAMP]
-    title: [FIRST TIMESTAMP TITLE] # The titles here should not be in quotation marks.
+  - seconds: [FIRST TIMESTAMP] # Please ensure that the timestamps are in seconds. Do not enclose in quotes.
+    title: [FIRST TIMESTAMP TITLE] # The titles here should not be in quotation marks. Do not enclose in quotes.
   - seconds: [SECOND TIMESTAMP]
     title: [SECOND TIMESTAMP TITLE]
   ...
 ```
+
+Raw data is here:
+```
+```
+
+Please generate a proper YAML output codeblock for the raw data according to the template format.
