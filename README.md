@@ -54,100 +54,53 @@ Our selections:
 * Overall loudness of -16 dB LKFS with +/- 1 dB tolerance, true peak of -1 dBTP
 * Encode loudness information in the header of the MP4 file
 
-We achieve this encoding using:
-
-```sh
-ffmpeg -i IN.m4v -vn -acodec aac -ac 1 -ar 44100 -b:a 160k -af loudnorm=I=-16:TP=-1:LRA=11:print_format=json -f mp4 -movflags +faststart OUT-WITHOUT-CHAPTERS.m4a
-```
-
 ## Chapter markers
 
 Specification: https://podcasters.apple.com/support/2482-using-chapters-on-apple-podcasts
 
 This site generates the ffmetadata files needed by ffmpeg to add chapter titles into an episode. See the output /ffmetadata folder. Also, a separate text-to-ffmetadata.js script is provided for convenience.
 
-We add this chapter metadata using:
+## Production
+
+Add a new episode by adding a `_episodes/YYYY-MM-DD-episode-NN.md` file and fill in the chapter metadata. And build the website with:
 
 ```sh
-ffmpeg -i Episode\ 14\ FULL.m4a -i ~/Sites/podcast.phor.net/_site/ffmetadata/2022-03-08-episode-14.txt -map_metadata 1 -codec copy 2022-03-08-episode-14.m4a
+bundle exec jekyll build
 ```
 
-## Production notes
-
-Save chapter markers in this format to chapters.txt (use HH:MM:SS or MM:SS):
-
-```
-00:00:00 Intro
-00:00:45 The agenda
-00:02:27 Area contract intro
-00:07:22 Push and pull Ether sending
-00:17:49 Ethereum should be illegal
-00:33:49 Free tool: batch transfer NFTs
-00:44:19 Adidas drop gamed by robot?
-01:13:15 Composing the Tweet
-```
-
-Then convert to ffmetadata format using:
+Encode audio like:
 
 ```sh
-node text-to-ffmetadata.js < chapters.txt > chapters.ffmetadata
+ffmpeg -i IN.m4v -vn -acodec aac -ac 1 -ar 44100 -b:a 160k -af loudnorm=I=-16:TP=-1:LRA=11:print_format=json -f mp4 -movflags +faststart YYYY-mm-dd-episode-NN-WITHOUT-CHAPTERS.m4a
 ```
 
-Use ffmpeg to extract audio from the video episode, use required format and add chapter markers from the file chapters.ffmetadata.
+Encluse chapter markers to make final audio like:
 
 ```sh
-ffmpeg -i ../Episode\ 3\ FULL.m4v -i chapters.ffmetadata -map_metadata 1 -vn -acodec aac -ac 2 -ar 44100 -b:a 160k -af loudnorm=I=-16:TP=-1:LRA=11:print_format=json -f mp4 -movflags +faststart episode.m4a
+ffmpeg -i 2022-03-08-episode-14-WITHOUT-CHAPTERS.m4a -i ~/Sites/podcast.phor.net/_site/ffmetadata/2022-03-08-episode-14.txt -map_metadata 1 -codec copy 2022-03-08-episode-14.m4a
 ```
 
-
-check:
+Update metadata like:
 
 ```sh
-ffprobe -i episode.m4a -print_format json -show_chapters -loglevel error
+NUM=15
+MEDIADIR=~/Desktop/OUT\ DOES\ NOT\ HAVE\ CHAPTER\ MARKERS
+
+# Set UUID
+UUID=$(uuidgen)
+sed -i '' -e "s/guid: .*/guid: \"$UUID\"/" *-*-*-episode-$NUM.md
+
+# Set itunes-duration
+DURATION=$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 $MEDIADIR/*-*-*-episode-$NUM.m4a | cut -d. -f1)
+sed -i '' -e "s/itunes-duration: .*/itunes-duration: $DURATION/" _episodes/*-*-*-episode-$NUM.md
+
+# Set enclosure-length
+# get size of $MEDIADIR/*-*-*-episode-$NUM.m4a in bytes
+SIZE=$(stat -f%z $MEDIADIR/*-*-*-episode-$NUM.m4a)
+sed -i '' -e "s/enclosure-length: .*/enclosure-length: $SIZE/" _episodes/*-*-*-episode-$NUM.md
 ```
 
-## Metadata
-
-Some tricks to update some metadata.
-
-```sh
-UUID=$(uuidgen); sed -i -e "s/guid: .*/guid: \"$UUID\"/" 2022-03-08-episode-14.md
-```
-
-```sh
-for a in *.md; do UUID=$(uuidgen); sed -i '' -e "s/guid: .*/guid: \"$UUID\"/" $a; done
-```
-
-Get an episode length in seconds, `itunes-duration`:
-
-```sh
-ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 2022-03-08-episode-14.m4a
-```
-
-Get an episode file size in bytes, `enclosure-length`:
-
-```sh
-wc -c 2022-03-08-episode-14.m4a
-```
-
-
-
-
-
-## How to add an episode
-
-1. Translate chapter markers to FFMpeg format (above)
-2. Upload media to media.phor.net
-3. Create a _episodes/ file
-  1. Fill in all metadata
-  2. Add show notes in markdown, can use GPT to translate any random format you have into paragraph format:
-     ```
-     # Below is a paragraph-based description of the episode and the above topics:
-     ```
-
-
-
-
+Now upload your media to the media storage location. And publish your XML site.
 
 ---
 
