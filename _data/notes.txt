@@ -1,0 +1,3134 @@
+<!-- Copy and paste the converted output. -->
+
+<!-----
+
+You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
+* ERRORs: 1
+* WARNINGs: 0
+* ALERTS: 24
+
+Conversion time: 15.315 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β34
+* Thu Jan 19 2023 1209:31 GMT-0800 (PST)
+* Source doc: NFT/Web3 Community Service Hour Program
+* Tables are currently converted to HTML tables.
+
+ERROR:
+undefined internal link to this URL: "#heading=h.yya0a0it0z8b".link text: above
+?Did you generate a TOC with blue links?
+
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+
+WARNING:
+You have 69 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 1; WARNINGs: 1; ALERTS: 24.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+<a href="#gdcalert6">alert6</a>
+<a href="#gdcalert7">alert7</a>
+<a href="#gdcalert8">alert8</a>
+<a href="#gdcalert9">alert9</a>
+<a href="#gdcalert10">alert10</a>
+<a href="#gdcalert11">alert11</a>
+<a href="#gdcalert12">alert12</a>
+<a href="#gdcalert13">alert13</a>
+<a href="#gdcalert14">alert14</a>
+<a href="#gdcalert15">alert15</a>
+<a href="#gdcalert16">alert16</a>
+<a href="#gdcalert17">alert17</a>
+<a href="#gdcalert18">alert18</a>
+<a href="#gdcalert19">alert19</a>
+<a href="#gdcalert20">alert20</a>
+<a href="#gdcalert21">alert21</a>
+<a href="#gdcalert22">alert22</a>
+<a href="#gdcalert23">alert23</a>
+<a href="#gdcalert24">alert24</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+
+# 
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.jpg "image_tooltip")
+  
+
+
+# NFT/Web3 Community Service Hour
+
+
+## Every Tuesday @ 6pm New York time
+
+
+## We **do projects**, **take questions** and discuss **the scene** last week.
+
+
+<table>
+  <tr>
+   <td>JOIN LIVE
+<p>
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://www.twitch.tv/fulldecent">Twitch live</a>
+<p>
+
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image3.jpg" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://twitter.com/fulldecent">Twitter Spaces live</a>
+   </td>
+   <td>PARTICIPATE
+<p>
+
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image4.jpg" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://twitter.com/intent/tweet?text=Hello%20@fulldecent%20I%20have%20a%20question%20for%20%23NFTCommunityServiceHour">Send questions</a>
+<p>
+Add to agenda below
+<p>
+
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://github.com/users/fulldecent/projects/2">Project board</a>
+<p>
+
+
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://github.com/users/fulldecent/projects/3">Blog post drafts</a>
+   </td>
+   <td>ADD TO CALENDAR
+<p>
+
+
+<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image7.png" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://calendar.google.com/calendar/ical/liurhb5cqvar2i6n6ekeanap44%40group.calendar.google.com/public/basic.ics">Add to calendar (ICS)</a>
+<p>
+
+
+<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image8.png" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NHA4ZXBrZWJkczlsamdmMzJpYmc2MnVqNWxfMjAyMjA2MjFUMjIwMDAwWiBsaXVyaGI1Y3F2YXIyaTZuNmVrZWFuYXA0NEBn&tmsrc=liurhb5cqvar2i6n6ekeanap44%40group.calendar.google.com&scp=ALL">Add to Google Calendar</a>
+<p>
+
+
+<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://discord.com/invite/6nTGNdjQ3B">Discord, click "events"</a>
+<p>
+
+
+<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image10.png" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://phor.net/#speaking">Workshops/IRL</a>
+   </td>
+   <td>PAST EPISODES
+<p>
+
+
+<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image11.png" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://www.youtube.com/playlist?list=PLaMigeN8Exx-ChNPpO-j6pFQ3F8oJWrBN">Every recording</a>
+<p>
+
+
+<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image12.png" width="" alt="alt_text" title="image_tooltip">
+ <a href="https://www.twitch.tv/fulldecent/videos">Only recent ones</a>
+<p>
+<a href="https://podcasts.apple.com/us/podcast/community-service-hour/id1662422217">Apple Podcast</a>s
+<p>
+<a href="https://www.tiktok.com/@fulldecent">TikTok clips</a>
+   </td>
+  </tr>
+</table>
+
+
+
+# **👇 Add your questions for next week here!**
+
+
+
+1. Compare smart contract languages:  Solidity, Rust, Move, Cadence
+2. [Recent stack exchange questions](https://ethereum.stackexchange.com/search?q=%5Berc-721%5D+%5Bnft%5D+answers%3A0), blog post drafts
+3. How would one go about building a Metamask clone?
+    1. See [this Ethereum Stack Exchange question](https://ethereum.stackexchange.com/questions/139412/how-do-i-make-a-crypto-browser-extension-like-metamask) for more context.
+
+
+# Should we make an airdrop/DAO for this call?
+
+
+
+* Utility: you can vote on upcoming initiatives/work, general prestige
+* 100 karma for staying to the end of a call each week (top 20 people if there are many?)
+* XXX karma for an accepted pull request on our PROJECT BOARD (see above)
+* Consider soulbound fungible tokens ("karma"/"community"/"thank you" points), should points systems only allow increasing?, should lifetime points and "power" (decaying amount) be separate?
+
+
+# NFT 2023 bingo
+
+Things we might see in 2023 actually happen
+
+
+
+* A music release mentioned in Rolling Stone magazine or Billboard is somehow released with/using/twinning NFTs
+* A Billboard Artists Hot 100 [from the end of 2022 list](https://www.billboard.com/charts/artist-100/2022-12-31/#) releases an NFT series capitalizing on their reputation
+* A US senator, representative, or executive department official that has a notable-verified checkmark on Twitter releases an NFT series capitalizing on their reputation
+* A person using Instagram will sell NFTs from the platform achieving market value over USD 10m
+* You buy a product in Walmart with a QR code on the retail box exterior that links to that specific product (serial number) that is somehow recorded on an immutable ledger
+* A game with more MAU than Horizon Games adopts a usable asset in the game which is somehow recorded on an immutable ledger
+* Reddit Avatar NFTs are useable somewhere other than on Reddit
+* More than USD 10B of asset holder funds are lost/locked/inaccessible due to some market exchange company/smart contract failure
+* New regulation makes Binance/TRON/or similar sized exchange impermissible in the US like Tornado Cash
+* A "Crypto Kitties" moment in a A/AA/AAA game with a collectable/monetization/verified thing that somehow relates to blockchain (which everyone will copy)
+* Twitter Spaces doubles MAU
+* An indie label gives out "gift cards" that fans can redeem and which pay[https://twitter.com/VitalikButerin/status/1526378796173012992](https://twitter.com/VitalikButerin/status/1526378796173012992) the artist
+
+
+# Episode 62
+
+SCHEDULED FOR 2023-02-07 6PM NEW YORK
+
+
+# Episode 61
+
+SCHEDULED FOR 2022-01-31 6PM NEW YORK
+
+
+# Episode 60
+
+SCHEDULED FOR 2022-01-24 6PM NEW YORK
+
+
+
+* Special guests: Jodee & Cameron organizers of NFT.nyc // what is NFT.nyc's vision for the future?
+* TOPIC (Elif): Non consensual tokens community recovery?
+* MagicKing 6:10Magicking6120: Hey was wondering about NFT (ERC721) on L2 chains like StarkNet, have you wander into that?
+
+
+# Episode 59—Homework review
+
+ORIGINALLY AIRED 2023-01-17 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1615605032438714377)
+
+
+
+* [https://youtu.be/-3Kzak6k4MA](https://youtu.be/-3Kzak6k4MA) / [tw](https://twitter.com/fulldecent/status/1615605037907968003) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1065164116056084492)
+
+TIMELINE:
+
+
+
+* 0 Intro
+* 46 Elif's homework, metadata for metaverse
+* 226 Subdividable coordinates
+* 435 Showing dense data on a 3-D map
+* 544 Hot take with Manifold
+* 621 OpenSea 2.5% fee reaction
+* 630 Manifold properties bug report
+* 695 Rito's homework QRs
+* 820 Analyze a QR code
+* 936 Learning: the boring way or the fun way
+
+NOTES
+
+
+
+* Our podcast is up! Link
+* Speech-to-text techniques
+    * Siri (garbled) => GPT-3 (“Can you clean up this garbled text for me?”)
+    * Whisper by Openai
+* Homework Review
+    * Elif // adding metadata into NFTs
+        * Near / external reflection of our universe / an image of individuality
+        * Needs: location and search
+        * Homework answer, what metadata?
+            * Coordinates? 2D? 3D? How many dimensions? Point/size?
+            * 2d/3d
+                * Reference work:  [http://web.archive.org/web/20220521081059/https://area.world/](http://web.archive.org/web/20220521081059/https://area.world/)
+                * Plus Codes
+            * Key questions:
+                * Is this Earth or a different orb?
+                * Is there exclusive ownership of locations? who mediates?
+                * Clusters like Craigslist? Or Minecraft which is territorial?
+        * 
+
+<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image13.png "image_tooltip")
+
+        * 
+
+<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image14.png "image_tooltip")
+
+    * Rito – Different QR code uses
+        * URLs
+        * SMS 
+        * tel:+12222123456
+        * sms:+12122223456?subject=XXX&body=XXX
+        * [https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Example_URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Example_URIs)
+        * Mailto:
+        * Decode QR codes with [zxing.org](www.zxing.org)
+* Qumosi?
+
+TWEET
+
+
+
+* Thank you for joining Community Service Hour episode 59! \
+ \
+Reviewed homework from @exstalis checking out a 2-dimensional (or 3-dimensional) metaverse construct. What is the metadata we would need for tokenizing this?
+* Some solutions are: first-dibs/gold-rush for spaces (like DNS/Minecraft) or another way is allowing anybody to use points (like Foursquare/Instagram)
+* How do you zoom in when there are too many people in one place? Maybe like Craigslist…
+* Reviewed homework from @rito_rhymes checking out different features for QR codes, identified some use cases, still studying how to transfer to ENS names
+* VIDEO LINK!!!!
+
+@dtedesco1
+
+@rito_rhymes
+
+@037
+
+@exstalis
+
+@magicking_
+
+@Digawen_XD
+
+
+# Episode 58—Homework
+
+ORIGINALLY AIRED 2023-01-10 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1612961771291017216)
+
+
+
+* [https://youtu.be/h-Lo_SgRNhQ](https://youtu.be/h-Lo_SgRNhQ) / [tw](https://twitter.com/fulldecent/status/1613054474435854340) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1062612349309169745)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 73 Intro: scanable tags for Doge wallets
+* 264 QR code usage East vs West
+* 414 How would you USE a Dogg tag?
+* 515 Phygitals for community creators
+* 567 We want to get to zero-step UX
+* 617 Why give phygitals and not normal merch?
+* 833 What can you do in return?
+* 914 A focus on our homeworks
+
+NOTES
+
+
+
+* We are now live on [Apple Podcasts](https://podcasts.apple.com/us/podcast/community-service-hour/id1662422217)
+* QR codes, dynamic (Rito)
+    * Doge-tags! See the front and scan the back
+    * How to make the QR code be dynamic redirect URI? The QR itself doesn't change (duh), it redirects to other places (URI).
+    * Make scanning QR codes interactive?—scannable, burnable, verifiable
+* Phygitals – how to sell (Elif)
+    * Inclusive/supporting creator economy dapp, 
+    * Looking for new income streams
+    * Phygitals, how to do with a single signature
+    * Next steps: SPELL OUT all the types of metadata you might want to connect to the NFTs; ideas for business models, discount if it's in a restaurant you want to share privileges with; things you want to share (access, discounts, like an invite)
+
+PARTICIPANTS
+
+
+
+* @dtedesco1
+* @t012n4d0
+* @rito_rhymes
+* @exstalis
+* @vjdeliria
+* Harry!
+
+
+# Episode 57—2023!, Qumosi, 037 question box, Dan’s PA Finale
+
+ORIGINALLY AIRED 2023-01-03 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1610427133696045056)
+
+
+
+* [https://youtu.be/Bsk8NOr_PIM](https://youtu.be/Bsk8NOr_PIM) / [tw](https://twitter.com/fulldecent/status/1610739107587555353) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1060298266643812372)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 41 How to say Qumosi
+* 65 2023 predictions
+* 517 More regulation
+* 726 Crypto/NFT mainstream media attention is...
+* 733 Thank you OpenAl for taking the spotlight
+* 779 Dynamic NFTs
+* 992 Avoid fate of Tornado Cash
+* 1227 How to fuzz smart contracts?
+* 1284 Fear ex post facto laws?
+
+NOTES
+
+
+
+* Qumosi // ??? IPA?? english phonetic thing?
+* Predictions
+    * 037
+        * Regulation
+    * VjDeleria
+        * Celebrity NFTs
+    * Ellie
+        * Music NFT mainstream (like getting an iTunes giftcard) see sound.xyz and [Snoop Dogg just sold USD 200k on there](https://www.sound.xyz/trending?type=artists&timespan=all)
+    * 
+    * B2B is touch
+    * Gaming 
+    * ChatGPT / Generative AI will be the main tech story of 2023, not blockchain
+    * Thank you OpenAI for taking the spotlight off of blockchain so we can build in peace and quiet
+    * Chess cheating:  [https://www.chess.com/blog/CHESScom/hans-niemann-report](https://www.chess.com/blog/CHESScom/hans-niemann-report)
+    * @realsternbauer / dynamic NFTs / 
+        * Cows & trees
+        * Pretty close with many consumer goods, requires consumer demand
+* Questions from @037: ([https://github.com/Qumosi/QMSI/commit/27c5f472dddb02f50d680557688156404152a4af](https://github.com/Qumosi/QMSI/commit/27c5f472dddb02f50d680557688156404152a4af))
+* Questions from @037 (misc):
+    * When deploying smart contracts with no hard controls to freeze assets, etc. how can we stay compliant to AML and not face jail like Tornado cash dev Alexsey Pertsev while also ensuring users trust us with no "owner" role?
+        * See episode about nothing is decentralized: episode 26
+        * Don’t see regulators going after technology, but rather how it’s marketed (so far)
+    * What are some modern ways to fuzz your custom smart contract code? Are there any good frameworks for security scanning contract code during runtime?
+        * Smart contracts best practice is not to use fuzzing, but rather 100% test coverage
+    * Are there any ex post factos to pending/future SEC regulations surrounding smart contract development? Could I get in trouble if I deploy something now and then SEC requires a control mechanism that doesn't exist and cannot be added (since smart contracts are set in stone after deploy)
+        * SEC has rules but also //ask// CFTC
+* Thank you for staying to the end
+
+@dtedesco1
+
+@Magicking_
+
+@realsternbauer
+
+@VjDeliria
+
+@EllieVoxel
+
+@t012n4d0
+
+@retromort
+
+
+# Episode 56—Holidays chats, USDD reserves, Dan @ PA
+
+ORIGINALLY AIRED 2023-01-07 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1607890796543414274)
+
+
+
+* [https://youtu.be/Cua80xq1HBE](https://youtu.be/Cua80xq1HBE) / [tw](https://twitter.com/fulldecent/status/1611940355758252032) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1061499260182466682)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 38 Irish Russians?
+* 209 ChatGPT is your everywhere intern
+* 447 Thanksgiving crypto discussions
+* 505 Use cases to tell family
+* 562 FTX and the move to self-custodying
+* 750 What is TRON USDD backed by???
+
+SCHEDULED FOR 2022-12-27 6PM NEW YORK.
+
+NOTES
+
+
+
+* Tasting notes: nue Vodka and Five Farms County Cork Ireland
+* Story sharing:  history of wine tastings at Will’s
+    * Barefoot came in dead last
+    * Compare with “Two-buck-chuck” AKA Carlo Rossi’s
+* Talking turkey—crypto discussions with family over the holiday
+    * FTX
+    * Remittances
+    * Supply chain
+    * Gamers (RPG)
+* ETH instead of Tech stocks last year @streephoto_eth
+    * Bought on Binance
+    * Set up a self-custody wallet, which brought a lot of relief
+* New Coinbase commercial over the holidays
+    * Content was obviously approved by legal:  “We are a public company. We hold customer assets 1:1.” Unlike what FTX was doing.
+* ChatGPT’s **holiday dialogue**:  Imagine a family holiday discussion about NFTs during Christmas dinner in 2022. Can you write a short and funny dialogue about this?
+    * Sure! Here is a short and funny dialogue about NFTs during a family holiday dinner:
+    * Dad: "So, I read this article about NFTs the other day. Apparently, people are paying millions of dollars for virtual art!"
+    * Mom: "Oh, come on. That's just a fad. No one is going to pay that much money for something that doesn't even exist in the physical world."
+    * Sister: "But they do exist! They're stored on the blockchain, so they're completely unique and can't be replicated."
+    * Brother: "I could have told you that. I've been buying NFTs for years. I even have one of a pixelated cat that's worth over a hundred thousand dollars!"
+    * Dad: "Well, I'll stick to my old paintings. At least I can touch them and hang them on the wall."
+    * Sister: "Suit yourself, Dad. But when my NFT collection is worth a fortune, don't say I didn't try to tell you about it."
+    * Mom: "Can we please talk about something else now? I'd rather not spend the whole dinner talking about virtual art."
+    * I hope you found this dialogue amusing!
+* ChatGPT’s advice on how to fail the Howie Test with your NFT project:  **How can one develop an NFT project that does not pass the Howie Test?**
+    * The Howey Test is a legal test that is used to determine whether a particular transaction is an investment contract, and therefore subject to securities laws. The test is named after the Supreme Court case SEC v. W.J. Howey Co., which established the criteria for determining whether a transaction is an investment contract.
+    * If you want to develop an NFT project that does not pass the Howie Test, there are a few steps you can take:
+    * **Avoid promising returns or profits: **One of the key criteria of the Howie Test is whether the purchaser is expecting to receive profits from the investment. To avoid being classified as an investment contract, you should avoid promising returns or profits to the purchaser.
+    * **Make the NFTs available for immediate use: **Another criterion of the Howie Test is whether the purchaser is expecting to use the investment for personal or business purposes. If the NFTs are available for immediate use, rather than being held for speculation or resale, it is less likely that the transaction will be considered an investment contract.
+    * **Don't market the NFTs as an investment: **Finally, you should be careful not to market the NFTs as an investment opportunity. Instead, focus on the artistic or functional value of the NFTs.
+    * It's worth noting that even if an NFT project does not pass the Howie Test, it may still be subject to other laws and regulations, such as consumer protection laws or anti-money laundering regulations. It's always a good idea to consult with a lawyer or other legal advisor before launching an NFT project.
+
+@dtedesco1
+
+@streetphoto_eth
+
+@magicking_
+
+@037
+
+@t012n4d0
+
+@substratexyz
+
+@Rito_Rhymes
+
+
+# Episode 55—Apes, Bagels, GPT, Dan in PA
+
+ORIGINALLY AIRED 2022-12-30 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1609014481199169540)
+
+
+
+* [https://youtu.be/q5d8LdVj5BA](https://youtu.be/q5d8LdVj5BA) / [tw](https://twitter.com/fulldecent/status/1609014490607108096) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1058573572978782248)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 40 The secret box
+* 55 NFT live shopping?
+* 91 Newsworthy?
+* 409 What blockchain things should we do with GPT?
+* 482 Can GitHub Copilot write Solidity?
+* 690 The other neural network tool for NFTs
+* 804 Do creators really want art generators?
+* 1067 How do we make everything into NFTs?
+* 1159 NFT supply chain for everything
+* 1218 Some luxury brands WANT counterfeit goods
+* 1313 Bored Bagels unboxing
+* 1396 The NFT sticker board
+* 1402 Ella's first cameo
+* 1461 Bill's first cameo
+* 1466 How did Su Squares get PO BOX 123?
+* 1753 Can/should you build a business on the Bored Ape brand?
+* 1792 Value proposition of BAYC versus CryptoPunks
+* 2047 How does artist dilution affect current collectors?
+* 2172 The Reddit NFT avatars
+
+NOTES
+
+
+
+* [Twitter question](https://twitter.com/dustdust213/status/1585041760954200064) from @dustdust213:  Isn’t twitter developing a wallet for crypto and we already have tipping available here on twitter so the question is why do we need a thank you system if people can just tip or post a comment on someone’s tweet?
+* Tomorrow we’ll have a call with Coindesk China about a joint article. [https://twitter.com/CoinDeskChinese/status/1605403048016490497](https://twitter.com/CoinDeskChinese/status/1605403048016490497)
+* How should we use ChatGPT + neural applications for blockchain applications?
+    * Coding support (though, anything produced needs to be audited)
+        * Also check out Github Copilot. We created a Soulbound ERC20 contract purely using Copilot (PASTE LINK)
+    * Generative 2D art
+        * [https://diffusionbee.com/](https://diffusionbee.com/) 
+    * Text-to-3d 
+        * [https://dreamfusion3d.github.io/](https://dreamfusion3d.github.io/)
+        * 
+* Trusted new sources
+* 330.ai
+    * Neondistrict
+* Model of NFTs in the future:  things you can use in multiple places
+    * “Visual stuff, I’m so past that”
+* @substratexyz supply chain use cases / 
+* Bored Bagels unboxing!
+    * With sticker from Bagels & Co
+* Mail us stickers! PO BOX 123 / Huntingdon Vy PA 19006
+* Why do people buy BAYC vs CryptoPunks?
+    * NFT value propositions: [https://blog.phor.net/2022/05/05/NFTs-good-or-bad-for-art.html](https://blog.phor.net/2022/05/05/NFTs-good-or-bad-for-art.html)
+    * Beeple talking about scarcity
+* Reddit Avatar NFTs
+    * [https://decrypt.co/117001/reddit-5-million-nft-avatars-polygon](https://decrypt.co/117001/reddit-5-million-nft-avatars-polygon)
+    * [https://fortune.com/crypto/2022/11/03/how-reddit-defied-crypto-winter-and-created-a-10-million-market-for-customizable-avatars-just-dont-call-them-nfts/](https://fortune.com/crypto/2022/11/03/how-reddit-defied-crypto-winter-and-created-a-10-million-market-for-customizable-avatars-just-dont-call-them-nfts/)
+    * [https://reddithelp.com/hc/en-us/articles/6213835889044](https://reddithelp.com/hc/en-us/articles/6213835889044)
+
+
+# Episode 54—Contract scanner
+
+EPISODE 54 ORIGINALLY AIRED 2022-12-13 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1602816057353596929)
+
+
+
+* [https://youtu.be/lukshxTYpUw](https://youtu.be/lukshxTYpUw) / [tw](https://twitter.com/fulldecent/status/1604696192524451841) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1054255205740462171)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 35 How was Miami?
+* 113 How to find all NFT contracts on a blockchain
+* 335 Ellie and virtual clothing
+* 423 Snap filters and web3?
+* 450 Blockchain is does not make things compatible
+* 469 Fortnite's blockchain plan
+* 515 Ellie's toolchest for AR and 3D work
+* 573 Don't take this out of context!
+* 580 @037 projects check-in
+* 590 Project: mint momentos while building a thing
+* 715 Project: NFT pass for setting up Minecraft servers
+
+NOTES
+
+
+
+* [https://github.com/fulldecent/contract-scanner](https://github.com/fulldecent/contract-scanner) answers a popular question:
+    * [https://ethereum.stackexchange.com/questions/83211/identifying-erc-721-erc-777-erc-223-contracts-in-the-evm-via-eth-gettransact](https://ethereum.stackexchange.com/questions/83211/identifying-erc-721-erc-777-erc-223-contracts-in-the-evm-via-eth-gettransact) 
+    * [https://ethereum.stackexchange.com/questions/109747/a-generic-way-to-query-for-all-erc-721-tokens-in-a-contracts-inventory-with-eth](https://ethereum.stackexchange.com/questions/109747/a-generic-way-to-query-for-all-erc-721-tokens-in-a-contracts-inventory-with-eth) 
+    * [https://ethereum.stackexchange.com/questions/114686/how-to-get-all-historical-owners-of-a-single-erc-721-nft](https://ethereum.stackexchange.com/questions/114686/how-to-get-all-historical-owners-of-a-single-erc-721-nft) 
+    * [https://ethereum.stackexchange.com/questions/61565/list-holders-and-tokens-for-an-erc-721-contract](https://ethereum.stackexchange.com/questions/61565/list-holders-and-tokens-for-an-erc-721-contract) 
+    * [https://ethereum.stackexchange.com/questions/99013/how-can-i-find-nfts-and-their-metadata](https://ethereum.stackexchange.com/questions/99013/how-can-i-find-nfts-and-their-metadata) 
+* Ellie Voxel
+    * Snapchat filters, recommended tools:
+        * [Lens Studio](https://lensstudio.snapchat.com/) - Snapchat
+        * [Meta Spark](https://sparkar.facebook.com/ar-studio/) - Instagram
+        * [Blender](https://www.blender.org) - 3D Modeling
+        * [Marvelous Designer](https://www.marvelousdesigner.com) - Clothing
+        * …
+* @037 project timeline NFTs (https://qumosi.com/)
+    * Timeline, parts of the project history (https://github.com/Qumosi/QMSI)
+    * Make contracts secure
+    * How to bounty/secure
+    * NFTs for a server
+        * Focus on modding server
+        * Minecraft / GTA
+        * Warning about someone else's product is someone else's property
+        * Using NFTs:  Cross-server or even cross-game leaderboard-gating, server-gating, discord-gating
+        * Decentralized Steam?
+        * Rockstar came out against 5m (sp?) 
+        * Game7.io
+
+@dtedesco1
+
+@037
+
+@cryptonerdylady
+
+@EllieVoxel
+
+@VjDeliria
+
+@exstalis
+
+
+# Episode 53—Bananas
+
+EPISODE 53 ORIGINALLY AIRED 2022-12-06 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1600278015619248134)
+
+
+
+* [https://youtu.be/qVbVsShOIz4](https://youtu.be/qVbVsShOIz4) / [tw](https://twitter.com/fulldecent/status/1600358891350478855) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1049917968970166344)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 126 Estonia government services on KSI blockchain
+* 240 I Understanding the NFT in web3
+* 271 Using your personal NFTs in company's branding
+* 421 A game, a first step in NFT
+* 433 Infrastructure for other games
+* 498 The front end
+* 804 The 500 survey
+
+NOTES
+
+
+
+* Sander @ [WOF Labs](https://worldoffreight.xyz)
+    * Started in 2021, with the mission to create a blockchain for supply chains
+    * World of Freight NFTs
+        * Built a mini-game
+        * Aiming to make it a supply chain simulator – racing game
+        * First infrastructure for other games – NFT renting
+            * Let ppl put up for rent for # of games or certain time
+            * Renter puts up payment or share a % of winnings
+            * Using Chainlink’s keepers
+            * Font-end – original owners see their ‘Fleets’ and choose which to rent
+                * Internal marketplace
+            * Not moving assets
+            * Previously:  Either direct p2p renting or a 3rd party guarantees giving back (but this only makes sense for high value assets with enough collateral)
+            * Newer:  Proxy wallets, allowing just view permissions to share but not write permissions
+            * Can put the assets in escrow, but this wastes gas
+            * Game runs on polygon, but assets are on Ethereum
+            * You can even sell during the rental and rental contracts just get voided and pre-payment returned
+            * All transaction info is on-chain
+            * Considering using Unlock protocol
+        * Currently in documentation and testing phase
+        * 
+    * Entrepreneur for many years
+* [NFT Tallinn](https://nfttallinn.com), Estonia May 9, 2023
+    * Why go?
+        * Estonia gov’t have been using blockchain for years
+        * Gov’t using KSI (sp?) blockchain since 2008
+        * All health records are timestamped
+        * CTO and CIO of Estonian gov’t will be there
+        * Bored Apes and bananas
+        * 2023
+            * Events for fintech, sustainability, and others
+            * VIP Poker event
+    * See past episode Episode 19—Reentrancy
+* Estonian gov’t
+    * Want to have all relevant gov’t data on blockchain and let users build apis and dapps on it
+    * Near Sweden fintech, Finland gaming, Estonia – many web3 companies are coming to the region
+* Where do you see the WOF labs going long-term?
+    * All info gets stored on blockchain
+    * Games are lightyears ahead of supply chain use case, so start there
+    * Originally thought the tech was ready – tried to make a layer directly connecting suppliers and retailers
+    * As we went deeper, realized finance is a language that everyone speaks – standards, but not connectivity – some using APIs, some just sending Excel spreadsheets
+    * Wanted to build translators from the old ways to blockchain without impacting old workflows too much
+    * Spent first year getting feedback and went to the market
+    * Over the past six months, talked to about 500 stakeholders in the space. Many are already familiar with blockchain. Many tried using Hyperledger in 2017/18 and hated the experience. In the process, they learned their infrastructure needed rebuilding. COVID forced this to accelerate. Will start happening in 2-4 years on supply chain infrastructure side
+    * Min 100k transactions per second at 1 cent per transaction
+    * Company behind KSI blockchain
+        * Works w/ US military and EU central bank
+        * Building a layer-1 called AlphaBill
+        * Biggest question is not the tech, but the taxonomy
+        * Everyone will be “made” to collaborate in order for it to work
+* Game is the place to start
+* Check out 
+    * @woflabs
+    * @sandergansen
+    * @supplian
+    * @worldoffreight
+
+@sandergansen
+
+@dtedesco1
+
+@substratexyz
+
+@vjdeliria
+
+@037
+
+@EllieVoxel
+
+@ItsCuzzo
+
+@digidot
+
+@t012n4d0
+
+@mooncatrescuer
+
+
+# Episode 52—Operator filter
+
+EPISODE 52 ORIGINALLY AIRED 2022-11-29 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1597742406392504320)
+
+
+
+* [https://youtu.be/BVA1lnYpfdk](https://youtu.be/BVA1lnYpfdk) / [tw](https://twitter.com/fulldecent/status/1597840097743097856) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1047399398667194429)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 42 OpenSea's requirement to block marketplaces
+* 132 What is OpenSea's perspective
+* 186 How does it work?
+* 346 Will's OPED
+* 486 What is OpenSea's motivation
+* 508 Is this the Web3 we want?
+* 513 Dot says it 100x better than me
+* 710 A trick for making NFTs cheaper
+
+NOTES
+
+
+
+* OpenSea requires all new NFT projects to enforce on-chain creator fees, or get demonetized
+    * Is this anticompetitive in an illegal or disallowed way?
+    * Why didn’t OpenSea just let people opt-out of royalties?
+    * Feels like the artist is being held for ransom rather than actually being helped
+    * Background
+        * [https://support.opensea.io/hc/en-us/articles/1500009575482](https://support.opensea.io/hc/en-us/articles/1500009575482)
+        * [https://twitter.com/opensea/status/1592358043588915202](https://twitter.com/opensea/status/1592358043588915202)
+        * [https://twitter.com/fulldecent/status/1596263336630702080](https://twitter.com/fulldecent/status/1596263336630702080)
+        * How contracts can specify owners and royalties on-chain
+            * EIP-173 ownerOf is the way to identify artists today
+            * EIP-2981 NFT Royalty Standard
+    * Implementation example
+        * [https://github.com/LightArtists/light-smart-contracts/blob/v2-metadata-editable/contracts/Light.sol](https://github.com/LightArtists/light-smart-contracts/blob/v2-metadata-editable/contracts/Light.sol)
+        * onlyAllowedOperatorApproval modifier
+    * Is this still better for artists than what was before OpenSea/NFT marketplaces?
+    * Spent all this time writing documentation and tweeting about it, but didn’t even implement it in their own store yet
+* An extension for token contracts: make setApprovalForAll cheaper
+    * Use messages, Gas-free setApprovalForAll
+    * Extension of 20/721/1155
+    * Doesn’t change how royalties work, if users want to apply royalties
+    * Breakdown explanation
+        * Have to Approve when listing on OpenSea
+        * Signed message doesn’t need to settle on-chain until you actually transfer the token
+    * Anyone who works at Blur, X2/Y2, Rarible, Looksrare to try this out?
+    * See EIP-1153 royalty router
+
+THANK YOU
+
+
+
+* @dtedesco1
+* @ReubenMetcalfe
+* @Rito_Rhymes
+* @Digidot
+* @PerusoJohn
+* @T012n4d0
+* @Duribeb
+* @Lucasgw
+* @Lil_astr_0
+* @Raxonchain
+* @EllieVoxel
+* @DKarr1234
+* @Djing_04
+* @yodude38
+
+
+# Episode 51—The heist
+
+EPISODE 51 ORIGINALLY AIRED 2022-11-22 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1595204554718601218)
+
+
+
+* [https://youtu.be/wbJzPuW_-CE](https://youtu.be/wbJzPuW_-CE) / [tw](https://twitter.com/fulldecent/status/1595290318898974721) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1044849692426645515)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 42 OlympusDAO hack
+* 97 Two options for hacking
+* 149 If you hack then you decide whether to return
+* 187 Should you "responsibly disclose"?
+* 925 Etherscan needs better source code view
+* 942 I support Tor
+* 1023 Tracing shell games of stolen tokens
+
+NOTES
+
+
+
+* On October 21, 2022 OlympusDAO lost and later recovered $292K due to an insufficient function parameter validation flaw.
+    * Hack review
+        * Set up another contract first
+        * Exploit only used the transfer function
+        * Looked up the transfer in Etherscan
+        * Attack breakdown – bondexpiry contract has permission against 
+            * First call robot
+            * Robot Look up balance
+            * Redeem something against bondexpirycontract
+            * Bondexpiry calls back to expire()
+            * burn() (which seems to be ignored)
+                * Function requires caller to be ‘teller’ – we ran out of time and didn’t figure out how robot got teller status
+            * Bondexpiry called underlying(), asked robot
+            * Robot lies about underlying
+            * Bond contract then performs transfer for the balance amount
+        * Should not have trusted bond contract
+        * Should not let underlying() be updated–it should be set at the beginning
+    * = "function is broken bad, anything can happen"
+    * Options: don't hack, hack and get ALL the money; non-option: hack and get some of the money
+        * If you don’t, someone else will finish the job right away (everything you do on-chain is public)
+        * White hat – take the money and then you have the option to give it all back
+            * What difference does intentionality make? How do governments address it when someone claims they are white hats?
+            * It might not be obvious where to return the money
+        * No hat – If you just tell the org, maybe they will just use the exploit for their own gain
+        * “Taking all the money is the only way to prevent anyone (else) from taking all the money”
+        * "Taking the money is the new responsible disclosure in web3"
+    * Epic heist tips (even for white hats)
+        * Don’t use home computer or wifi
+        * Can’t go unTOR-ed or un-VPNed even once
+        * Worry about [MTG-like “fizzles”](https://mtg.fandom.com/wiki/Fizzle)
+        * Upleveled OpSec is required (i.e. always using yarn in docker)
+        * “This isn’t being paranoid [pause] that’s what a paranoid person would say.”
+        * Anonymity buys time
+* [https://bitcoinmagazine.com/culture/if-you-love-bitcoin-you-should-help-tor](https://bitcoinmagazine.com/culture/if-you-love-bitcoin-you-should-help-tor)
+    * Support Tor: [https://donate.torproject.org/](https://donate.torproject.org/)
+    * [Wikipedia entry](https://en.wikipedia.org/wiki/Tor_(network))
+
+THANK YOU
+
+
+
+* @dtedesco1
+* @t012n4d0
+* @Rito_Rhymes
+* @cryptonerdylady
+* @streetphoto_eth
+* @merwyx
+* @yodude38
+
+
+# Episode 50—FTX, OpenSea backdoor 
+
+EPISODE 50 ORIGINALLY AIRED 2022-11-15 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1592669905970958338)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1592765192760614912) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1042324236838125629)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 42 FTX
+* 288 The Binance element
+* 373 CEX fails, use DEX?
+* 406 DEX and not DEX
+* 500 The OpenSea backdoor
+* 743 How to decompile?
+
+NOTES
+
+
+
+* FTX
+    * Domiciled in sketchy island
+    * Youth / savior complex
+    * What about other exchanges?
+        * Coinbase – US-based, NYSE-listed are signals of trust
+        * Kucoin – Officially in Vietnam, but actually Chinese? 
+    * Rush to transparency theater?
+        * Whatever they do, it’s probably better than things were before
+    * In 2021 all the ads looked the same – 
+        * Accredited investors doing ads or just random companies
+    * FTX: Don't be like Larry
+    * Binance
+        * Started it all by selling (or saying to do so)
+        * [https://twitter.com/cz_binance/status/1592044496174612482](https://twitter.com/cz_binance/status/1592044496174612482)
+        * Set up a fund for distressed assets
+            * CZ gets a lot of upside from this
+    * Go to DEX’s instead? Could be more transparent
+        * Also lots of risk… price oracle discussion
+    * 
+* The OpenSea backdoor
+    * ***add the tweet and blog post links
+        * [https://github.com/dtedesco1/opensea-shared-storefront-backdoor](https://github.com/dtedesco1/opensea-shared-storefront-backdoor)
+        * [https://blog.phor.net/2022/11/04/Does-OpenSea-Shared-Storefront-have-a-backdoor.html](https://blog.phor.net/2022/11/04/Does-OpenSea-Shared-Storefront-have-a-backdoor.html)
+    * Whenever you wanna look up what’s going on on Etherscan
+    * Inject & steal approach
+* Process
+    * Find bytecode in etherscan
+    * Decompile with Ethereum Decompiler 
+    * Paste in text editor that can print in color
+    * Print in color and steal your kid’s highlighter
+    * Read until your eyes bleed
+    * Easy one to decompile
+        * [https://etherscan.io/address/0x2e2234b3a848f895a60b2071f90303cd02f7491d#code](https://etherscan.io/address/0x2e2234b3a848f895a60b2071f90303cd02f7491d#code)	
+    * Tools to decompile: [https://blog.phor.net/2022/11/04/Does-OpenSea-Shared-Storefront-have-a-backdoor.html](https://blog.phor.net/2022/11/04/Does-OpenSea-Shared-Storefront-have-a-backdoor.html)
+
+THANK YOU
+
+
+
+* @dtedesco1
+* @NFTHYPEMAN
+* @ItsCuzzo
+* @RunGoodRussell
+* @Lil_Kat002
+* @EllieVoxel
+* @yodude38
+
+
+# Episode 49—NFT Philly
+
+EPISODE 49 ORIGINALLY AIRED 2022-11-09 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1590131731323293697)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1590224953580085250) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1039783960009523210)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 42 What is NFT Philly?
+* 187 What are the demographics?
+* 430 He is ride to death
+* 466 Is NFT+art the new sex+drugs+rock and roll?
+* 574 How do music NFTs work?
+* 614 NFT music royalties
+
+SCHEDULED FOR NOV 8 6PM NEW YORK.
+
+
+
+* SPECIAL GUEST: Barman of NFT Philly
+* Perspectives about the NFT scene
+* NFT Philly initiatives 
+    * Started by “Squiddy”, looking for people who were interested in NFTs
+    * Initially just a Twitter account
+    * Initially connecting socially, eventually aiming for bigger scale education events and conferences
+    * Started having official events in April of this year
+    * Splinterlands and Glue Society have sponsored
+    * Not into selling tickets, like the freeness of it
+    * Next Friday on 
+    * Started off as collectors, growing to builders, hospitality
+    * Range of events
+        * Workshops
+        * “Philly Shilly” – rapid fire introducing a project
+    * Grand vision:  central hub for education and connecting
+* Music NFTs
+    * So much can be done beyond royalties and VIP access:  feedback from fans voting, token-gate pre-release content
+    * Some connection to Live Nation even today
+* Small communities vs big communities
+    * Lots of love for PhillyNFT from the group
+* Will’s presenting at Harvard w/ Tron
+
+THANK YOU
+
+
+
+* @dtedesco1
+* @Ppcbz
+* @Metaweardrip
+* @Nft_hoarder0
+* @Nosocialengine
+* @T012nad0
+* @Jeffalomaniac
+* @Babycoby_
+* @Tigerisfine
+* @Warontheworm
+* @Findartsociety
+* @Itsnickreyes
+* @037
+* @exstalis
+* @yodude38
+
+
+# Episode 48—Current events
+
+EPISODE 48 ORIGINALLY AIRED 2022-11-01 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1587579886008508416)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1587703479111254016)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 43 Results from our TikTok contest
+* 148 The news-o-rama
+* 153 No gas November Su Squares
+* 226 Clippings
+* 233 Oh, wait, you're a fan of the magic?
+* 315 Celsius doxing own users?
+* 402 Paid promotions
+* 481 Tool for playing out bridge attacks
+* 501 TX viewer
+* 549 Sanctions violations
+* 606 Scam victims suing custodian
+
+NOTES
+
+
+
+* TikTok results?
+    * 10k views on [this one](https://www.tiktok.com/@fulldecent/video/7158560159445290286?is_copy_url=1&is_from_webapp=v1)!
+* https://www.bloomberg.com/news/articles/2022-10-03/feds-seized-311m-in-bitcoin-btc-the-crypto-hacker-stole-it-back
+* https://protos.com/celsius-promotes-radical-transparency-doxxes-every-user/
+* https://www.theverge.com/2022/10/3/23384789/kim-kardashian-crypto-fine-sec-pump-and-dump-ethereum-max
+* https://www.coindesk.com/business/2022/11/01/early-makerdao-developer-and-stablecoin-pioneer-found-dead-in-puerto-rico/
+* https://twitter.com/cryptoctf/status/1578141441796280328
+* https://tx.eth.samczsun.com/
+* https://www.theblock.co/post/176182/u-s-treasury-fines-bittrex-29-million-for-sanctions-violations-in-its-largest-action-against-a-crypto-firm
+* [https://www.washingtonpost.com/business/2022/10/14/crypto-scam-victims-seek-hold-coinbase-responsible-losses/](https://www.washingtonpost.com/business/2022/10/14/crypto-scam-victims-seek-hold-coinbase-responsible-losses/)
+* [https://twitter.com/0xSt1ng3R/status/1583901648035860480](https://twitter.com/0xSt1ng3R/status/1583901648035860480)
+
+THANK YOU
+
+
+
+* @jeremymckane
+* @037
+* @audiochain_io
+* @yodude38
+* @_iwylie
+* @ellievoxel
+* @dtedesco1
+
+
+# Episode 47—Our upcoming DAO? ​
+
+EPISODE 47 ORIGINALLY AIRED 2022-10-25 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1585043904084090880)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1585108550317051904) / 
+
+TIMELINE
+
+
+
+* 50 The new TicTok account
+* 97 Promo TicTok 1
+* 128 Promo TicTok 2
+* 181 Promo TicTok 3
+* 204 Promo TicTok 4
+* 262 Promo TicTok 5
+* 282 Promo TicTok 5
+* 356 Promo TicTok 7
+* 385 Promo TicTok 8
+* 440 Promo TicTok 9
+* 643 Should we make a DAO for this group?
+* 1016 Compare to LinkedIn recommendations
+* 1565 Thank yous cost money, everything web3 costs money
+
+NOTES
+
+
+
+* A couple notes about good design for airdrop/DAO that we might use… want your thoughts! Compare to other community points.
+* Hired a few people to make TikToks. Please let me know which styles you like so I can hire them again. They are from diff people → @fulldecent
+* The TikTok \
+
+
+<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image15.jpg "image_tooltip")
+
+* IDEAS:
+    * ThankYou.wtf manifesto
+        * What is a thank you?
+            * It's public, from somebody, to somebody, and it includes a message, and some points. The points don't matter.
+            * Maybe if you send ZERO points it is a message (avoid libel) it's a warning to your friends that you endorsed somebody and you don't like them any more?
+            * Is this "gossip"?
+            * "Soulbound FUNGIBLE tokens"
+        * Why do I want a thank you?
+            * Receiving a thank you can make you feel good. Good feelings increase health, longevity and quality of life.
+            * Seeing thank yous from people you care about to new people can inform you if you want to be around those new people.
+        * How do you send it?
+            * You publish to ThankYou.wtf and blockchain using a signed message.
+            * Or if you don't publish it then it sits on the ThankYou.wtf for 2 weeks. Maybe the recipient or somebody else will publish it. If nobody publishes it, the TYwtf website deletes it. If you somehow publish it directly onto a blockchain, the TYwtf website will pick it up.
+        * How do you receive it? ???? DO WE WANT THIS PART? JUST HAVE THEM SEND A THANK YOU BACK?
+            * You don't have to receive it.
+        * Who are you sending it to?
+            * Can send to a website (see Chrome list of common website domains), a specific page (twitter profile?), or a blockchain address.
+        * How does the message work?
+            * You type whatever you want. Up to 280 characters.
+        * How do the points work?
+            * You can send as many points as you want. You can make your points be any color or design. (ERC-1155.) Anybody can send themself points, they don't matter.
+            * All the points (and messages) you send out to each person will show up on your page. If people care about your points the ThankYou.wtf website will also show them on the recipient's page.
+            * You can send at most X points to a person at a time.
+        * How is this built
+            * Thank yous are signed messages like \
+THANKYOU/RECIPIENT_ADDRESS_OR_HASH/POINTS/MESSAGE
+            * how to do timestamps? how to revoke yourself?
+            * Which blockchain do they settle on? can people repost them on other chains?
+        * How can I connect my product to ThankYou.wtf?
+            * You can send thank yous on chain or send to us. (Spam prevention?)
+            * You can read the points, these are SBTs. And you can use them to authenticate into a website.
+            * Points only go up as time goes on. But you can also calculate POWER which is some function of points and recency. You can use this power to control access to your community or help you make decisions (do we want to say voting?
+        * Is there censorship / distributed?
+            * You are free to use ThankYou.wtf however you like. We can censor the Thank Yous that you send to us if necessary or if it makes our product better. But we cannot censor anything you send directly to the blockchain or which you distribute in other ways.
+        * What does it cost?
+            * This product is free to use on ThankYou.wtf and on blockchains near you.
+            * Our operating expenses are X and we received X donations. You can send thank yous to this project at Y.
+            * If you would like to host your own copy of this project or maybe don't like our branding, call us. We work as consultants, call us, prices start at USD 10,000.
+        * Other features
+            * Email login to get notified of thank yous.
+            * Browser extension to thank you any website (see Brave extension and how it find the author of any page)
+        * More notes
+            * Is this more like LinkedIn where have a million connections and don't even know these people, like Twitter where I might know them or just want to read them, or like my phone contacts list where these are really people I know?
+            * Snap chat has streaks each day
+            * Tying accounts to 
+* Community Service Hour Army
+    * [https://www.reddit.com/r/CryptoCurrency/comments/v2lx3u/comment/itsatqa/?context=3](https://www.reddit.com/r/CryptoCurrency/comments/v2lx3u/comment/itsatqa/?context=3) \
+
+
+THANK YOU
+
+
+
+* @dtedesco1
+* @Rito_Rhymes
+* @dustdust213
+
+
+# Episode 46—Moonstream
+
+EPISODE 46 ORIGINALLY AIRED 2022-10-18 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1582507892220911618)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1582847470429949955) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1032406560925818931)
+
+TIMELINE
+
+
+
+* 100 Intro Neeraj
+* 165 What will make web3 games break out?
+* 303 Does SMB1 ownership values like Web3?
+* 395 The metaverse is really about communities
+* 426 Neeraj motivation
+* 534 Prerequisites for this call
+* 783 Reputations in Moonstream community
+* 822 How do you decentralize a community?
+* 834 ICO token distributions
+* 930 Why it's impossible to build a DAO
+* 1006 How are arcades like DAOs?
+* 1077 The secret for avoiding large community incentive problems!
+* 1315 Hire a game designer to make daos?
+* 1360 Where is the fun in web3 games?
+* 1404 How game design affects lore
+* 1550 Dark forest vs StarCraft
+
+NOTES
+
+Guest:  Neeraj of Moonsteam.to. founder of Moonstream, Neeraj, via Game7. He thinks much more deeply about how to make blockchain game economies sustainable than just about anyone I know. And they open source everything.
+
+Neeraj’s Twitter:  [https://twitter.com/zomglings](https://twitter.com/zomglings)
+
+Moonstream Discord:  [https://discord.gg/BSxjMyfWgW](https://discord.gg/BSxjMyfWgW)
+
+
+
+* Moonstream.to
+* Want to build games that people _want_ to spend their lives playing, without any dark design patterns but rather because they love it
+* The first step of the metaverse is a name on a Pacman arcade machine
+* Neeraj’s background[https://clashroyale.com/blog/news/community-update.html](https://clashroyale.com/blog/news/community-update.html)
+    * Started in mathematics research
+        * Integer sequence encyclopedia
+        * Neel Sloan, John Conway
+    * Grandmother’s health saga inspired to help solve diagnosis issues
+        * Research in Japan for a while using 
+    * Always interested in tech
+        * Google Tensorflow a bit
+        * Always interested in Bitcoin since the paper came out
+* Moonstream team/community
+    * Can’t have Neeraj being the one person controlling wallets forever
+    * Decided to decentralize everything
+    * Building a reputation system 
+    * [https://en.wikipedia.org/wiki/Winning_Ways_for_Your_Mathematical_Plays](https://en.wikipedia.org/wiki/Winning_Ways_for_Your_Mathematical_Plays)
+* HOw to decentralize?
+    * Moonstream will probably never do a token
+    * Things to avoid in decentralization
+        * Transactional, financially-oriented relationships
+        * Don’t want to build things that will break at scale	
+    * Will wrote a paper about the game theory of this
+        * Can’t avoid transactional nature of decentralized systems
+        * Instead, designers have parameters to tune
+        * [https://medium.com/0xcert/token-curated-registries-8035d7fac2b7](https://medium.com/0xcert/token-curated-registries-8035d7fac2b7)
+* Can we build systems that scale arbitrarily?
+    * Neeraj says no
+    * Big tech company example
+    * When community becomes too large 
+    * Federation seems to work
+    * Book: Driving Honda: Inside the World's Most Innovative Car Company
+* Is Neeraj a game designer?
+    * Maybe old school game designers are not the best for designing blockchain games
+    * Want all types of game designers in teh community though
+    * Cryptounicorns Minigame – designed as not fun, but players found fun and meaning in many aspects of it
+* Moonstream has it’s own nodes, crawlers rather than 3rd parties
+    * Could use some help on 
+* I can give out Remixer NFT badges for people that completed classes before! See [https://rewards.remix.ethereum.eth.limo/](https://rewards.remix.ethereum.eth.limo/) how to organize this?
+* Make clips
+* What are some Twitch channels I should add to SUGGESTED CHANNELS?
+* And who should we Twitch raid??
+    * —> Day9tv
+
+THANK YOU
+
+
+
+* @dtedesco1
+* @Zomlings
+* @T012n4d0
+* @VjDeliria
+* @yodude38
+* @037
+* @cryptonerdylady
+* @EllieVoxel
+
+
+# Episode 45—Speed round
+
+EPISODE 45 ORIGINALLY AIRED 2022-10-11 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1579971401238605826)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1580278195621793792) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1029837906812096562)
+
+TIMELINE
+
+
+
+* 47 Baseball drop
+* 122 It's an organizational issue
+* 219 Speed round, first time
+* 270 Random drops blog post
+* 317 Batch ETH tool
+* 386 Moar EIPS?
+* 486 The new web3signals newsletter
+* 652 Google + Coinbase announcement
+* 909 Phygitals demo
+
+NOTES
+
+
+
+* [https://www.justice.gov/opa/pr/justice-department-seizes-and-forfeits-approximately-500000-north-korean-ransomware-actors](https://www.justice.gov/opa/pr/justice-department-seizes-and-forfeits-approximately-500000-north-korean-ransomware-actors) DOJ 500k recovered
+* Who are more guests you would like to see on the show?
+* New NFT.life tool [https://nft.life/batch-transfer-ether](https://nft.life/batch-transfer-ether)
+* New blog post: [https://blog.phor.net/2022/09/30/What-kinds-of-things-should-be-standardized.html](https://blog.phor.net/2022/09/30/What-kinds-of-things-should-be-standardized.html)
+* 
+* Google Cloud announced [partnership with Coinbase](https://cloud.google.com/blog/topics/google-cloud-next/whats-next-for-digital-transformation-in-the-cloud)
+* New web3 newsletter from @joinweb3signals:  [web3signals](https://web3signals.substack.com)
+* New web3 social media platform from @MajorJackPayne:  [thursday_wtf](https://twitter.com/thursday_wtf)
+* Review the phygitals project template / [https://nft.life/demos/simple-fulfillment](https://nft.life/demos/simple-fulfillment)
+* Example phygitals:  VeeCon tickets
+
+
+
+<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image16.png "image_tooltip")
+
+
+
+# Episode 44—Dirtyhash
+
+EPISODE 44 ORIGINALLY AIRED 2022-10-04 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1577436804747169792)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1577533071930392576)
+
+NOTES
+
+
+
+* Guest speaker Amit Verma, [www.dirtyhash.com](http://www.dirtyhash.com)
+* Good timing for something like DirtyHash, due to growing US regulations
+    * Lots of exchanges getting calls from OFAC
+    * OFAC only releases lists every month, unable to deal with zero days
+* Risks of misuse
+    * False flag operations
+* “Black” list, “white” list, “grey” list
+* DirtyHash aims to be a recommender
+    * Possible applications of recommendation tokens / soulbound tokens
+* Insurance idea
+    * Risk scores can be used for insurance down-the-line
+    * Could get flagged for money laundering
+* “We should be using the ideas, but not necessarily the technologies”
+* “The point of money is to spend it, not to program it.”
+* DirtyHash review
+* Data sources
+    * Uniswap listed addresses? other repositories
+    * Using different sources today
+    * Considering using Etherscan, Bitcoin talk forum
+* Levenstein (sp?) distance
+    * Detects similar Twitter handles
+
+TIMELINE
+
+
+
+* 40 Welcome
+* 43 Special guest Amit
+* 103 Today's anti-fraud environment
+* 179 What happens when you get blocked?
+* 295 What about false flags?
+* 420 Using ML
+* 486 Set up a DAO?
+* 524 Insurance product
+* 633 Just do it using a real bank
+* 666 MONEY QUOTE
+* 858 Hacking the TOS and Privacy Policy
+* 1286 Wrap up
+* 1407 What was your motivation?
+* 1535 How long you been at it
+* 1673 Does it have OFAC list?
+* 1764 Other scam data sources
+* 1886 A new model for business models
+
+
+# Episode 43—Pooja
+
+EPISODE 43 ORIGINALLY AIRED 2022-09-27 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1574908201069338624)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1575343442309382145) 
+
+NOTES
+
+
+
+* Guest speaker Pooja Ranjan, Herder-in-chief at Ethereum Cat Herders [https://www.ethereumcatherders.com/](https://www.ethereumcatherders.com/) 
+* Pooja got involved in the ecosystem via EtherWorld [https://etherworld.co](https://etherworld.co) 
+* Peek an EIP [https://www.youtube.com/channel/UCD9iiIwTRtLDYcEWONs2Q3A/videos](https://www.youtube.com/channel/UCD9iiIwTRtLDYcEWONs2Q3A/videos)
+* EtherWorld [https://etherworld.co/](https://etherworld.co/)
+* Ethereum Improvement Proposal (EIP) process is how standards get born in the Ethereum ecosystem https://ethereum.org/en/eips/
+* Fellowship of Ethereum Magicians is key forum for EIPs https://ethereum-magicians.org
+* How has EIP process evolved over time?
+* How did Pooja learn how to run meetings in such an organized and inclusive way?
+* Objective of ETH Cat Herders is to be inclusive, allowing anyone who wants to be part of the community to have ways to contribute
+* Co-hosted the [Merge viewing party](https://ethereum.org/en/eips/) with [Ethereum Foundation](https://ethereum.foundation), [Bankless](https://www.bankless.com), [Daily Gwei](https://www.youtube.com/c/TheDailyGwei), and other ecosystem media
+* Ethereum Cat Herder’s Discord [https://discord.io/EthCatHerders](https://discord.io/EthCatHerders)
+* Workstreams have been created for specific areas, such as wallet devs – should we consider something similar for NFT-related EIPs?}
+* How to make the community more reflective of the whole world? Still many circles are dominated by white dudes from rich countries.
+    * Some circles are more diverse, like NFT art
+    * Since mostly remote-first, could be a good opportunity for moms who want to return to work after focusing on raising kids for a few years
+    * Internship opportunities with Ethereum Cat Herders
+
+TIMELINE
+
+
+
+* 43 Pooja intro
+* 152 How Ethereum Cat Herders started
+* 314 And what about her "more public role" of application standards?
+* 562 Any key EIP discussion stories?
+* 737 ECH try to build consensus from people using this stuff
+* 791 I have an idea, should I standardize it?
+* 855 How to abuse EP process
+* 971 A new onboarding flowchart for new creators
+* 1024 Peep an EIP
+* 1128 What's your motivation?
+* 1418 How to get diversity into this space?
+
+
+# Episode 42—International NFT Day
+
+EPISODE 42 ORIGINALLY AIRED 2022-09-20 / [wrap-up Tweet](https://twitter.com/dtedesco1/status/1572363136589770754)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1574960339120427008)
+
+NOTES
+
+
+
+* Live from Manhattan
+* New video up – [Episode 22](https://www.youtube.com/watch?v=VcdSG47I3zk)
+    * “What is Community Service Hour?”
+    * How to take ERC-721 and mint as ERC-20
+    * Where’s the big red button?
+* Rawlings NFT drop (from episode 41) / already has 2 fake copy accounts on OpenSea, already taken down
+* International NFT Day!
+    * First mention of NFT, by Dete
+    * [Website sponsored by Flow](https://www.internationalnftday.org) (no love for Su Squares on that page :()
+    * [Dapper’s post](https://www.dapperlabs.com/newsroom/get-ready-to-celebrate-nft-day-on-september-20)
+* Any plans to airdrop NFTs or points to listeners of the show?
+    * Thinking about this, maybe even a DAO
+    * Already have a record through the final Tweet records of each episode
+    * Also considering a points system
+    * Early on working on had a bounty board with technical projects
+        * In future:  More non-technical ways for folks to contribute
+        * Can “underwrite” driving contribution even if no money involved
+* Old NFT sites
+    * [Oldnft.com](https://www.oldnft.com)
+    * Su Squares history – Lenna image, The Octagon, the “hack”
+* NFTs in China
+    * Shanghai’s city government has NFTs in their 5 year plan
+* ERC-721A – supportive, be careful about batch minting
+* Hacking Profanity vanity addresses
+    * Profanity is a tool to choose wallet address
+    * Reroll wallet creation to get an address you want
+    * Very hackable
+
+TIMELINE
+
+
+
+* 75 037's questions from Ep 22
+* 127 Revisiting Rawlings NFT drop, already got 2 fake copycat collections!
+* 233 Happy international NFT day
+* 319 Reflections looking back 5 years
+* 400 Slava in the house
+* 406 Why did you get into this?
+* 525 You do other token standards?
+* 645 What are the more recent standards you're watching?
+* 726 Hellomoto / why Su Squares not featured in Flow's timeline?
+* 821 Should we airdrop NFTs for the show?
+* 1230 The 185-square plot
+* 1663 John / erc721a
+* 1729 Profanity vanity wallet hack
+
+
+# Episode 41—Phygital NFTs
+
+EPISODE 41 ORIGINALLY AIRED 2022-09-13 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1569831271093739520)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1569943746057207808)
+*  
+
+NOTES
+
+
+
+* Confirmed guests // Dream Syndicate / Rawlings NFT project
+    * David social and growth @davidabcdee
+    * Livia Discord mgr
+    * Ben main producer
+    * Ellie art director @ellievoxel
+    * @dreamsyndicatXR
+* How do NFTs that redeem for physical things work?
+    * Rawling is a new model [https://nft.rawlings.com](https://nft.rawlings.com) // drops Sep 14
+        * Custodial token – NFT can be redeemed for physical glove
+        * Different series and price tiers
+        * Redemption requires sending the NFT to a burn address
+        * Background from David
+            * New project for Rawlings
+            * Partly for Rawlings to see how much their audience is interested in NFT
+            * Already lots of folks who are physical collectors
+            * There will be future projects
+        * Rawlings knew nothing about NFTs initially, except one person
+        * Went through many rounds of talks with them
+        * One VP has been on Discord chats and became interested. Got other folks on board.
+        * People know them for gloves. Wanted to do an NFT drop that didn’t feel like a cash grab.
+        * Wanted to know what would be the more popular model
+        * Launch tomorrow
+        * Good mix of people with different interests
+    * Comparable model to 
+        * Wooshie (sp?) – Plushie with a QR code on it
+        * Crypto stamps – From Austrian Post. A flag on the NFT, user keeps both at the same time.
+        * .arianee – Certificate of Authenticity model. Watches with paired NFTs
+* What is the benefit to people that redeem versus hold the tokens?
+* Can they both be rare/collectable?
+    * Tokens get rarer as they burn
+* Should we give perks to both categories of people?
+* Be careful sweepstakes / giveaways / state laws on gambling, skill
+* What to do with products that aren't redeemed?
+* Bonus Rap performance / vinyl drop @rito_rhymes // directory
+* @MetaWrapDrip also jerseys
+
+TIMELINE
+
+
+
+* 45 Introducing the team
+* 80 Disclosures
+* 106 The project link [https://nft.rawlings.com/](https://nft.rawlings.com/)
+* 143 Companion NFTs vs. custody NFTs
+* 214 Plushies and other digital twins
+* 332 Why do I need to destroy the token!?
+* 793 Effect on token rarity
+* 894 Rito raps explainer for MFTs
+* 1204 Who is entitled, NFT holder or physical holder?
+* 1646 NFC tech
+* 1943 A wallet IS NOT a person
+* 2019 Blind shipping (privacy) through MyUs.com
+* 2268 Rawlings doesn't need help selling gloves
+* 2581 How pricing was chosen
+
+
+# Episode 40—Teaching kids to code
+
+EPISODE 40 ORIGINALLY AIRED 2022-09-06 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1567289098771070979)
+
+
+
+* 
+
+NOTES
+
+
+
+* Gaming and open source
+    * Metaverse super repo:  [https://www.npmjs.com/package/create-metaverse](https://www.npmjs.com/package/create-metaverse) @dogedestinyapp
+    * https://game7.io
+* Notes about deploying on TRON
+* Chainlink
+    * Nothing is verifiably random on blockchain
+* Scaffold-ETH, ETH dev speedrun
+* The art of code talk - [https://www.youtube.com/watch?v=6avJHaC3C2U](https://www.youtube.com/watch?v=6avJHaC3C2U)
+* Can we make a more readable language for smart contracts?
+    * Review of the [“iceberg” of programming languages](https://www.youtube.com/watch?v=pEfrdAtAmqk)
+* When would you use soul-bound tokens? See also [https://twitter.com/fulldecent/status/1536854323778420736](https://twitter.com/fulldecent/status/1536854323778420736)
+* First steps
+    * See [https://wizard.openzeppelin.com](https://wizard.openzeppelin.com)
+    * [Ethernaut](https://ethernaut.openzeppelin.com)
+    * [Crypto Zombies](https://cryptozombies.io)
+    * [Scaffold eth](https://github.com/scaffold-eth/scaffold-eth)
+* Web dev learning
+    * [Fireship](http://fireship.io)
+
+TIMELINE
+
+
+
+* 44 Open source metaverse platform
+* 163 The drink
+* 201 And the famed rum!
+* 233 Metaverse superheroes
+* 345 Deploy on TRON
+* 763 Who is backing TRON?
+* 870 What is Chainlink?
+* 1119 What actually is randomness?
+* 1234 The analogy
+* 1313 Scaffolding and natural language
+* 1905 Can we get dApp scaffolding in plain HTML?
+
+
+# Episode 39—The Merge
+
+EPISODE 39 ORIGINALLY AIRED 2022-08-31 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1564758348679061505) / [li](https://www.linkedin.com/posts/fulldecent_episode-39the-merge-activity-6971087576560455680-zBk5?utm_source=share&utm_medium=member_desktop)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1564862460275953664)
+* Short:   / [tw](https://twitter.com/fulldecent/status/1564862765285662720)
+
+NOTES
+
+
+
+* What if miners continue to mine!!!??? Let's call it POWNet! Difficulty goes down
+* Who benefits from POWNet? Who is likely to be the loudest advocate
+    * the biggest miners // because they have a sunk cost in mining equipment which becomes useless in POS
+    * NVIDIA EthHash
+* What is the economic incentive to validate on a non-mainstream POS network?
+    * incentive = stake/{total stake} * value
+* USD 1M of marketing sells USD 100M of pictures of animals // so USD 10B of marketing can make POWNet valuable enough that miners use it and NVIDIA's stock goes up 40%
+* POWNet will be broken for most bridges
+* On POWNet what about the difficulty bomb!?
+* [https://www.pcmag.com/news/nvidia-decreased-demand-means-gpu-price-cuts#:~:text=The%20falling%20demand%20represents%20a,which%20led%20to%20skyrocketing%20prices](https://www.pcmag.com/news/nvidia-decreased-demand-means-gpu-price-cuts#:~:text=The%20falling%20demand%20represents%20a,which%20led%20to%20skyrocketing%20prices) 
+* [https://twitter.com/takenstheorem/status/1560690035955011585/photo/1](https://twitter.com/takenstheorem/status/1560690035955011585/photo/1) 
+
+TIMELINE
+
+
+
+* 49 The drink
+* 131 POS intro
+* 171 what if miners continue to mine?
+* 230 we're on Ethereum version 20 already
+* 329 The Merge prevents future forking
+* 470 what about censorship resistance?
+* 832 the rebellion
+* 1043 NVIDIA business plan
+* 1191 what happens to bridges in The Merge?
+* 1241 how to incentivise development on POWNet?
+* 1347 why you should still mine on POWNet
+
+
+# Episode 38—OpenZeppelin Contracts ECDSA bug
+
+EPISODE 38 ORIGINALLY AIRED 2022-08-23 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1562217336127602688)
+
+
+
+*  / 
+
+NOTES
+
+
+
+1. What is ECDSA?
+    1. A public key and a private key
+        1. Can be Eth address
+    2. Sign a message with a private key, and anybody can verify against public key
+        2. Sign a Eth TX or message
+            1. The messages are used on smart contracts to denote authorization
+    3. Encrypt message with a public key, and decrypt with a private key
+    4. Two types of encoding, 64-byte and 65-byte
+        3. Either is accepted for verification in a smart contract
+2. ECDSA signature malleability · Advisory · OpenZeppelin/openzeppelin-contracts [https://github.com/OpenZeppelin/openzeppelin-contracts/secur lity/advisories/GHSA-4h98-2769-gh6h](https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h)
+    5. OZ mentioned `ecrecover` opcode malleability
+    6. OZ failed to mention the 64/65-bit malleability
+    7. Reported other contracts affected ERC1271WalletMock and EIP712External
+3. Should make signature acceptance injective rather than surjective
+4. Need better code search for live contracts!
+    8. At least github search accepts “-” operators
+    9. Potential issues with Github search operators for Stars & Forks
+5. Found a vulnerability in Zibert bridge ([created Github issue](https://github.com/zibert/bridge/issues/1)) and Hive [https://github.com/cent-inc/hive/issues/1](https://github.com/cent-inc/hive/issues/1)
+
+TIMELINE
+
+
+
+* 65 Official drink
+* 169 What is ECDSA
+* 274 How to use ECDSA
+* 604 Ella's cameo!
+* 887 Searching for vulnerabilities in the wild
+* 909 Searching with Etherscan
+* 971 Found results
+* 1087 Found it in the mock
+* 1237 Found zero day
+
+
+# Episode 37—(SPECIAL TIME // 8 hours earlier than normal!!!)
+
+ 
+
+<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image17.png "image_tooltip")
+ YouTube recording (to do) / 
+
+<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image18.jpg "image_tooltip")
+ [Wrap-up Tweet](https://twitter.com/fulldecent/status/1557168320041861121) / LinkedIn post
+
+
+
+* [https://twitter.com/fulldecent/status/1559363564179279872](https://twitter.com/fulldecent/status/1559363564179279872)
+* Artist royalties, discussing these:
+    * https://twitter.com/beeple/status/1558573319347179520 
+        * @beeple
+    * https://twitter.com/ZachSpaded/status/1559004142256865280 
+        * @ZachSpaded
+* Can NFT royalty payments be ENFORCED on-chain?
+    * Yes, ERC-721 can require payment (of Ether) to transfer (the buyer or seller!) an NFT. But ERC-1155 cannot require this in the safe(Batch)?TransferFrom function.
+    * **Question:** how many OpenSea transactions are already using side channel buyer-seller collusion to avoid fees?
+        * Key point: the smart contract does NOT know the full sale price (just like government does not know full sale price of your car @snapboogie)
+        * Enforce:
+            * Seller consigns the asset to auctioneer with no minimum bid
+            * If the bid increment is larger than the collusion saving (i.e. royalty/tax/marketplace cost)
+        * Enforce on-chain:
+            * Only reliable if the fee is a fixed-price fee
+            * Using pricing set by some kind of bonding curve or more generic function
+                * Time-based (velocity)
+                * Total amt of ETH
+        * Enforce off-chain:
+            * Use an appraiser (oracle, tax investigator)
+    * Other encumberances in assets sales (transcations with other silent parties involved)
+        * Land grant → sales restrictions to certain parties ("no blacks") or use restrcitons ("no houses" -> local watershed)
+        * Each new party agrees to the full terms of sale
+    * Should NFT be "sales" or should should be "licenses", licenses have different kinds of terms and there is a different expectation of agreement/law/redistribution/terms from recipients/licensees/"buyers?"
+        * ERC-721 uses the word "owner" all over it / ergo there is a reasonoblae expectation that this is "sale" and a license
+        * Is there scope to create ERC-721 speciificatnio clone for licenses (that are transferrible?) or an extension that is specifically for licensicng (soulbound?)
+* Ways around just about anything
+    * Wrapper contracts
+* Moral stance
+
+
+# Episode 36—2022-08-10The Solidity Bug 0.8.16! 
+
+ 
+
+<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image19.png "image_tooltip")
+ YouTube recording (to do) / 
+
+<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image20.jpg "image_tooltip")
+ [Wrap-up Tweet](https://twitter.com/fulldecent/status/1557168320041861121) / LinkedIn post
+
+Originally aired 2022-08-09
+
+
+
+* The Solidity bug
+* Minified the bug case significantly from the [Ethereum Foundation’s announcement](https://blog.soliditylang.org/2022/08/08/calldata-tuple-reencoding-head-overflow-bug/)
+* Searched for functions in [OpenSea’s Seaport repo](https://github.com/ProjectOpenSea/seaport) that are subject to the bug
+    * ABI code
+        * Find all abi.encode…
+        * Find all external calls
+    * Dynamic
+        * Find strings
+        * Find bytes
+        * Find []
+    * Static
+        * \[d+\]
+* Also search contracts for Zora, Binance NFT Marketplace, Foundation
+* Got very close, but didn’t find any!
+* New Solidity bug [Head Overflow Bug in Calldata Tuple ABI-Reencoding | Solidity Blog (soliditylang.org)](https://blog.soliditylang.org/2022/08/08/calldata-tuple-reencoding-head-overflow-bug/)
+
+
+# Episode 35—Nomad hack
+
+ORIGINALLY AIRED 2022-08-03 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1554607310957428744)
+
+
+
+* [https://youtu.be/BjvjF4TlyBM](https://youtu.be/BjvjF4TlyBM) / tw / dc
+
+TIMELINE
+
+
+
+* 0 Intro
+* 48 Nomad hack announcement
+* 208 What is transaction malleability?
+* 469 Why bridges hacked and not L1?
+* 486 Let's see if we can find the code
+* 606 Use transaction to find the contract
+* 679 Spam opportunity to find ppl that got hacked
+* 701 The source code
+* 765 Founders can rugpull this
+* 838 Upgradable contracts slow incident response
+
+NOTES
+
+
+
+* Used to be one-hack-a-week rhythm, but slowed down
+* Now we’re back with Nomad
+    * [https://twitter.com/fulldecent/status/1554597775412805633](https://twitter.com/fulldecent/status/1554597775412805633) The contract address
+    * Addressed with a16z crypto security team ([former leaders of Facebook’s Novi wallet](https://a16z.com/2021/10/11/nassim-and-riyaz/))
+* [https://twitter.com/nomadxyz_/status/1554246853348036608](https://twitter.com/nomadxyz_/status/1554246853348036608)
+    * Transaction malleability (replayable)
+        * Malleability (maybe TX is signed but then can be changed BUT the original or changed version can only be used once so there is one "nullifier")
+            * Read the GM17 paper to see more on this
+        * Cryptographic non-injuction \
+
+
+<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image21.png "image_tooltip")
+
+    * Almost impossible to find the smart contracts on etherscan
+    * Why doesn’t the Nomad website:
+        * Mention that the contracts are upgradeable
+        * Share the actual addresses of their live contracts
+    * It does (quietly in the docs):  https://docs.nomad.xyz/operational-security/contracts
+    * Nomad docs about [governance](https://github.com/nomad-xyz/docs/blob/main/docs/index.md)
+* Nomad’s [contracts on Github](https://github.com/nomad-xyz/monorepo/tree/main/packages/contracts-bridge/contracts)
+
+
+# Episode 34—All about rollups
+
+ORIGINALLY AIRED 2022-07-26 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1552130694725439490)
+
+
+
+* [https://youtu.be/CJxTg3nzm2w](https://youtu.be/CJxTg3nzm2w) / [tw](https://twitter.com/fulldecent/status/1610392219986305028) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1059951150490726470)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 47 Limits of Ethereum (Mainnet)
+* 73 Is Ethereum itsef a rollup?
+* 135 Optimistic rollups
+* 393 Zero-knowledge proof rollups
+* 734 ZKP on Ethereum
+* 738 The major limitation of ZKP
+* 851 ZKP toxic waste
+* 1486 ZKP to move NFTs
+* 1790 QR codes and NFTs really change the world
+
+NOTES
+
+
+
+* Why Ethereum needs to “scale”
+    * [Visual intro to how Ethereum Virtual Machine works](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+* Optimistic rollups
+* Zero Knowledge
+    * How [Zcash](https://z.cash/the-basics/) works
+* zkEVM rollups 
+    * Three announcements last week
+    * [Polygon](https://polygon.technology/solutions/polygon-zkevm/) – open sourced their code
+    * [Scroll](https://scroll.io/) – pre-alpha testnet
+    * [zkSync](https://zksync.io/) – 100 days to mainnet
+* AWS – Nestle says supply chain transparency is increasingly important to consumers
+
+
+
+<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image22.png "image_tooltip")
+
+
+<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image23.png "image_tooltip")
+
+
+(Thanks to Scroll)
+
+
+# Episode 33—What happens when I get hacked?
+
+ORIGINALLY AIRED 2022-07-19 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1549530129054973953)
+
+
+
+* [https://youtu.be/ty_bzkP8O_k](https://youtu.be/ty_bzkP8O_k) / [tw](https://twitter.com/fulldecent/status/1609055642995531776) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1058614686398042214)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 52 Field report, getting an NFT stolen
+* 337 The sneaky setApprovalForAll
+* 386 Take action: inform OpenSea
+* 516 Compare to the real world
+* 915 Crypto marketplace information sharing with government
+* 947 How hard is OpenSea trying to prevent fraud?
+* 996 Business idea: self custody wallet to avoid scams
+* 1263 Could the mods at OnChainMonkey have prevented this?
+* 1323 Business idea: Discord bot to hack everybody, to TEACH you
+* 1432 How can Discord prevent these scams?
+* 1517 Why Discord needs to be more vigilant than Twitter
+
+NOTES
+
+
+
+* @SizzleJia experience // how do scams work // who is legally responsible? // what to do?
+    * @OnChain Monkey new collection called Karma
+    * Minted the new collection, but NFT requires 12 hours to reveal which one it is
+    * Got as invitation in official Discord to "mint a special drop", appeared to be a founder
+        * Linked to minting webpage
+            * MetaMask had a warning "this is a dangerous action", she rejected it
+    * Disconnected setApprovalForAll
+    * Reported to OpenSea and flagged, cannot be listed for sale
+    * Compare to other sales platforms // buying stocks in a regulated marketplace // buying stolen merchandise
+        * Is OpenSea like a broker/dealer? Custody is different. Known counterparty is different.
+        * **Did OpenSea flag other assets that the thief from SizzleJia's OnChain Monkey? Or are they waiting for people to complain and handling them one-by-one?**
+    * Ideas to solve
+        * Prevention
+            * Gnosis-like time lock
+            * Alternatives to “Admins will never DM first”?
+        * Recovery
+            * Regular legal routes to recover stolen goods
+    * <span style="text-decoration:underline;">Don't feel helpless when you are taken advantage of (while using Web3) there are rules and laws to protect you</span>
+    * Are there ways the Discord mods could have prevented outreach like that?
+        * Probably OnChain Monkeys could not have done a better job
+        * Discord could turn off DMs by DEFAULT // TWITTER POLL
+        * Discord could track reputations of links, and have a official links list, warn for others
+        * Discord could better explain which role are "official" and speak for the community
+* Why might Discord need to be more vigilant than Twitter? It’s easier to look official on Discord, because they are small communities.
+* First videos are up! Check them out on YouTube:  [https://www.youtube.com/playlist?list=PLaMigeN8Exx-ChNPpO-j6pFQ3F8oJWrBN](https://www.youtube.com/playlist?list=PLaMigeN8Exx-ChNPpO-j6pFQ3F8oJWrBN)
+
+CLOSERS
+
+
+
+* @dtedesco1
+* @SizzleJia
+* @jasonji2022
+* @037
+
+
+# Episode 32—Utility
+
+EPISODE 32 ORIGINALLY AIRED 2022-07-12 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1547034214738137088)
+
+
+
+* [https://youtu.be/BZ6d0hCqoBI](https://youtu.be/BZ6d0hCqoBI) / [tw](https://twitter.com/fulldecent/status/1602222038852460544) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1051781353978482719)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 59 Use case demo-phygitals
+* 214 Can NFTs make physical stuff secure?
+* 449 Quick demo about how messages work
+* 737 What utility do NFTs have?
+* 743 How do property titles actually work?
+* 822 Secret plan for people in blockchain to retire early
+* 875 Digible hot take review!
+* 1010 First takes Hot Wheels X WAX NFTs
+* 1038 What is a real, live non-art NFT use case?
+
+NOTES
+
+
+
+* Physicals fulfillment example [https://nft.life](https://nft.life) 
+
+
+# Episode 31—Supply finance
+
+EPISODE 31 ORIGINALLY AIRED 2022-07-05 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1544462753888436224)
+
+
+
+* [https://youtu.be/fbXNCH50cIM](https://youtu.be/fbXNCH50cIM) / [tw](https://twitter.com/fulldecent/status/1599614852645138433) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1049173492605648948)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 56 Luxury + NFT, what to use?
+* 304 How to go from Web2 dev to Web3?
+* 379 Q from Anand
+* 473 The ERC-721 transfer event exception
+* 796 Cheapest NFT platform to teach kids?
+* 1003 How much did Will play SMB1?
+* 1048 Tripping NFTs?
+* 1088 Web3 and supply chain finance?
+* 1854 Live first impression of VeChain
+
+NOTES
+
+
+
+* Fashion NFTs // Arianee and Lukso // chat with [https://metatechsolutions.ca/team/](https://metatechsolutions.ca/team/)
+* Devs going from web2 to web3
+    * Will’s lecture on this:  [https://www.youtube.com/watch?v=z8bzQHV5cvY&list=PL9oQ7yETvN11Ju0MTJ8yJ6dPYzNpW3_fn&index=17](https://www.youtube.com/watch?v=z8bzQHV5cvY&list=PL9oQ7yETvN11Ju0MTJ8yJ6dPYzNpW3_fn&index=17)
+* Reasons behind EIP-721 Transfer event exception during contract creation
+    * The Cosby Show flash and flood
+    * Link EM thread to this
+* Benjamin NFTs
+* Can we use Web3 for supply chain finance?
+    * Events
+        * EY Blockchain Summit
+        * Supplain 
+    * This is a huge market (Trillionzzzz)
+
+
+# Episode 30—Floor price control
+
+EPISODE 30 ORIGINALLY AIRED 2022-06-28 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1541923784466259968)
+
+
+
+* [https://youtu.be/qNppQLNRvNQ](https://youtu.be/qNppQLNRvNQ) / [tw](https://twitter.com/fulldecent/status/1595306117135040515) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1044865022930718750)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 109 Website naughty list
+* 169 Control your own marketplace
+* 244 Ding people for listing
+* 1083 NFT + DeFi = a security?
+* 1116 The Howey test
+* 1511 Ban floor prices
+* 1678 Staking to earn interest on NFTs?
+* 1689 Bibles, interest and token staking I 
+* 1800 Does gas subsidy work?
+
+NOTES
+
+
+
+* @DopeDobesMafia @_j4y3 from Michigan
+    * The Foster Protocol / 0.5 floor price and dropping 0.05 per week until 0.15 // how to listen to transactions
+    * Want to make smart contract know if someone is listing under 0.15.
+    * TOP TEN: on-chain inspection of market prices
+    * Seaport approach / decreasing price and Merkle proof
+    * Scenario A: centralized, only the admin can report people
+    * Scenario B: walled garden, only tx happen on YOUR market place
+    * Scenario C: optimistic, anybody can access OpenSea and get prima facie evidence of defecting which is validated on-chain
+    * Scenario D: Seaport moving price offers
+* "Floor price" and "attribute bidding" are probably illegal
+* "This is not religious advice" interest
+* Wisdom of setting floor prices for assets without inherent value, what laws might this be breaking (USA)
+    * Legal and regulatory considerations
+        * [SEC Framework doc](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets)
+        * Four points of the Howie Test:
+            1. An investment of money
+            2. In a common enterprise
+            3. With the expectation of profit
+            4. To be derived from the efforts of others
+        * Cartel / price fixing / price collusion
+        * [Interest in Islamic banking and finance](https://en.wikipedia.org/wiki/Islamic_banking_and_finance)
+    * Economic considerations
+* What if we buy it back?
+    * Buy/sellback agreement is pawning – governed in state law
+* From voxval0r:  [Seth Greene’s stolen Bored Ape NFT](https://news.artnet.com/market/seth-greens-monkey-nft-stolen-saga-2121342)
+* OpenSea Seaport Protocol
+    * A relayer or referral fee allows third party to post transaction (also called ZERO GAS)
+
+
+# Episode 29—Live at NFT.nyc
+
+EPISODE 29 ORIGINALLY AIRED 2022-06-21 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1539383465556287488)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1593101301252227072) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1042661186451279932)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 114 What if this had happened 4 years ago
+* 366 How was June 21, 2018?
+* 403 how was the first NFTnyc keynote?
+* 594 Gabe Viggers in the house
+* 697 Compare, contrast 2022 v 2021
+* 1295 Specific examples of Web 2.5?
+* 1518 What about interop
+* 1544 A perfect world with bridges?
+* 1647 Pros and cons of having so many speakers at NFT.nyc
+
+NOTES
+
+
+
+* With special guest co-host [https://twitter.com/ianutile](https://twitter.com/ianutile) 
+* Today is NFT's 4th birthday (4th anniversary of the final passage of ERC-721)
+
+
+# Episode 28—Soulbound
+
+EPISODE 28 ORIGINALLY AIRED 2022-06-14 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1536854323778420736)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1590504413809909766) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1040063385125015632)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 40 Pushing Ether sends control
+* 158 Full disclaimer if you want to push ether
+* 211 Soulbound tokens, good or bad?
+* 292 Can soulbound tokens be fungible AND nonfungible?
+* 471 Star of David is a soulbound token?
+* 512 What tattoos are soulbound tokens? not all
+* 568 Should soulbound tokens be transferrable?
+* 834 Soulbound does not require immutable
+* 853 How do you connect to a soul?
+* 938 Deep into the metaphysics of souls
+* 1200 China social credit system
+* 1247 The SBT use cases
+* 1554 A personal, question did you overestimate or underestimate what was coming?
+
+NOTES
+
+
+
+* Push versus pull models of sending things from TW@tomiwa1a
+    * Push implies change of control, including the `send` function in Solidity for Ether and the `safeTransferFrom` in ERC-721.
+    * Best practice: [https://docs.soliditylang.org/en/v0.8.14/common-patterns.html?highlight=withdrawal#withdrawal-from-contracts](https://docs.soliditylang.org/en/v0.8.14/common-patterns.html?highlight=withdrawal#withdrawal-from-contracts)
+    * Actual safety measure is: every time you send away control from your contract using a message send or safeTransferForm etc. make sure that from the possible ways that the recipient could enter back into your contract OR affect the global state does not violate any of your assumptions or preconditions	
+* “Not a shill and chill”
+* On-chain and off-chain digital identity–soul bound tokens
+    * Basic definition of soulbound token
+        * 1. It's a token—it's not intrinsically valuable, "it's just a number"
+        * 2. It's nonfungible? comes from games, tattoos that meaning derived without, achievement badges? stolen valor?
+        * 3. not transferable (OR should be identified with ONE person?!)
+        * ENTRIKEN'S LAW: Your ownership of assets on a ledger is only as valid as your trust in the custodian who has physical control of the assets. // The ISSUE is the trusted party
+        * What is a soul? This is a fundamental question for SBT. And how does something on a blockchain connect to a soul? Deep into the metaphysics.
+    * Extensions?
+        * Nobody says these have to be immutable / non-revokable
+    * Others models
+        * "immutable resume or report card" // incompatible with "right to be forgotten"
+        * "permanent ratings"
+        * "badges"
+        * star ratings // people get sued over these
+    * Technically, to implement this:
+        * ERC-721 with transfer disallowed
+        * "soul"
+        * Send only to externally-owned accounts "wallets", not smart contracts
+    * History of ERC-721
+        * Thousands of discussion posts
+    * Vitalik SBT / [https://twitter.com/fulldecent/status/1527686122163384321](https://twitter.com/fulldecent/status/1527686122163384321)
+* Is NFT more or less than Will expected
+
+
+# Episode 27—Evil ownerOf
+
+EPISODE 27 ORIGINALLY AIRED 2022-06-07 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1534317390971998209)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1584426911324782592) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1033985876834910258)  
+
+TIMELINE
+
+
+
+* 0 Intro
+* 67 OpenSea insider trading charge, facts
+* 141 Legal analysis
+* 402 Give allow list to your (testnet) beta testers
+* 543 Beer of the day
+* 552 Make your own bridge (simple, insecure)
+* 711 Drops with random timing!
+* 786 Cross chain minting by centralizing
+* 905 Evil ownerOf
+
+NOTES
+
+
+
+* OpenSea insider trading
+    * [https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
+    * [https://www.bloomberg.com/opinion/articles/2022-06-02/don-t-insider-trade-nfts#xj4y7vzkg](https://www.bloomberg.com/opinion/articles/2022-06-02/don-t-insider-trade-nfts#xj4y7vzkg)
+* @037 If you wanted to do an airdrop of coins to only a set of wallets that participated on another contract in a dev chain (example: Rinkeby), is there a way to do cross-chain verification using an arbitrary block height? (example: give 10 coins from Contact "A" in Mainnet if Wallet "A" interacted with Contract "B" on Rinkeby before block height "X"). This is to promote mass beta testing to hopefully catch bugs before live deploy.…
+    * Option A – Bridge
+        * Use Rinkeby to make a separate contract and use a bridge to send those tokens to the other chain.
+    * Option B – “get hands dirty”
+        * Rinkeby allowlist contract
+            * Function isAllowlisted emits logs, not a view function, in other words ONE transaction results in MULTIPLE allow list validations
+        * On Mainnet validate these logs
+            * Validate multiple consecutive blocks, with difficulty, using parent block and difficulty, this only works with proof of work
+            * Validate specific transaction using inclusion Merkle proof
+            * Validate and the transaction receipt (see [Yellow Paper BERLIN](https://ethereum.github.io/yellowpaper/paper.pdf), page 6, transaction receipt data structure) to confirm the logs were emitted
+            * Optional: add a time limit to this redeemability (using block.timestamp)
+    * Option C – Centralize
+        * Time public time limits / redeem periods / for accountability
+        * After that happens, everybody can see it and run the tool, copy this: [https://github.com/su-squares/update-script](https://github.com/su-squares/update-script) and [https://github.com/miguelmota/merkletreejs-nft-whitelist](https://github.com/miguelmota/merkletreejs-nft-whitelist)
+* Addressing gas fees
+    * Bonding curves
+    * Dutch auctions
+* Live Zero Day!
+    * Affected marketplaces are potentially 2018 smart contracts that allow selling any NFT, and have a balance of value (not just allowlisted ones)
+        * OpenSea
+        * Rarebits
+        * Superrare
+        * Niftygateway
+    * `// SPDX-License-Identifier: GPL-3.0`
+    * 
+    * `pragma solidity 0.5.0;`
+    * 
+    * `interface NFT {`
+    * `   function ownerOf(uint256) external view returns (address);`
+    * `}`
+    * 
+    * `contract EvilNFT {`
+    * `   Marketplace public marketplace;`
+    * 
+    * `   function setMarketplace(Marketplace marketplace_) external {`
+    * `       marketplace = marketplace_;`
+    * `   }`
+    * 
+    * `   function ownerOf(uint256) external returns (address) {`
+    * `       marketplace.reprice();`
+    * `       return address(tx.origin);`
+    * `   }`
+    * `}`
+    * 
+    * `contract Marketplace {`
+    * `   uint256 public price = 0;`
+    * 
+    * `   function reprice() external {`
+    * `       price++;`
+    * `   }`
+    * 
+    * `   function doSomething(NFT nft, uint256 tokenID) external {`
+    * `       // collect money from msg.sender`
+    * `       require(nft.ownerOf(tokenID) == msg.sender);`
+    * `       // check price`
+    * `       // send money to DAO`
+    * `   }`
+    * `}`
+* Bankless got blocked on YouTube
+    * CEO tweeted sorry!
+
+
+# Episode 26—Vj Deliria
+
+EPISODE 26 ORIGINALLY AIRED 2022-05-31 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1531788679076888576)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1583900210493034496) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1033459266566234113)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 46 Special guest VjDeliria
+* 132 Our drop together
+* 168 How is Latin NFT world different?
+* 379 What is Avalanche doing in LATAM?
+* 608 Asking about Algorand
+* 608 Can you have a foundation AND a commercial arms?
+* 660 What are other open source funding models?
+* 969 Is any organization decentralized?
+* 1084 The Red Hat model
+* 1166 Why Ethereum Foundation doesn't do consulting
+* 1233 The history of Hicetnunc
+* 1356 Using pull payment vs push payment
+* 1672 Exploit with ownerOf
+* 2004 Car titles and metaphysics
+* 2154 What do you buy when you buy an NFT?
+* 2214 ERC721a
+
+NOTES
+
+
+
+* Featuring co-host @vjdeleria
+* Spanish NFT community
+    * Finance, legal, artist collections
+    * Needed to grow: access to technology -> start a collective
+    * VjDeleria does: workshops
+    * LATAM opportunities:
+        * finance / inclusion / 
+        * Avalanche / Algorand
+* Blockchains with for-profit foundations – Good or bad?
+* Blockchain organizations (like Algorand company vs. foundation)
+        * Nothing is decentralized // if a project has a website then SOMEBODY is paying for that website and they control it // Hicetnunc project was forked by community
+        * Possible models
+            * For-profit foundation
+            * Corporate sponsorship
+            * Wikipedia model – Ask for donations directly from readers
+                * Most blockchains have no direct pageviews from participants
+            * Red Hat model – free software, charge for support
+    * Hic Et Nunc case study
+* Pull request review from @Tomiwa1a:
+    * [https://github.com/atilatech/arthouse/issues/9](https://github.com/atilatech/arthouse/issues/9)
+    * [Smart Contract review](https://github.com/atilatech/arthouse/blob/6bee14f231cd220ef9bace823d9830795f7af81d/contracts/Market.sol#L130-L156)
+        * Withdrawal best practices in the [Solidity Templates repo](https://github.com/fulldecent/solidity-template/blob/main/contracts/Utilities/Withdrawable.sol)
+        * Solidity Common Patterns: [Withdrawal from Contracts](https://docs.soliditylang.org/en/v0.8.14/common-patterns.html?highlight=withdrawal#withdrawal-from-contracts)
+    * <span style="text-decoration:underline;">https://github.com/atilatech/arthouse/pull/4</span>
+* Also, I think this doc should be in chronological order (i.e. the most recent ones should be at the top of the page)
+* What is the difference between ERC-721 and ERC-721A?
+
+
+# Episode 25—Play to Earn?
+
+EPISODE 25 ORIGINALLY AIRED 2022-05-24 / [Wrap-up Tweet](https://twitter.com/fulldecent/status/1529240971187216385)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1578922437722316805) / [dc](https://discord.com/channels/513179688865234945/882640701794451536/1028481565677862942)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 46 Agenda
+* 67 MetaMask JavaScript scam
+* 180 Live demo, track you even if you don't connect MetaMask
+* 529 The solution
+* 585 NFT "whitelist"
+* 897 Light.art has these features, open sourced!
+* 944 Dan's slide why P2E fails
+* 1025 Slide 2 minecraft
+* 1072 Slide 3 P2E
+* 1113 Negative sum game
+* 1182 Xinbev on the scene
+* 1203 Okay to use tokens outside the ecosystem
+* 1269 Farmers and whales
+* 1348 Is P2E a game of skill or a game of chance?
+* 1398 Cynical about all web3 tokens?
+
+NOTES
+
+
+
+* +Users of Etherscan, CoinGecko, and other major crypto resources were targeted with **targeted with a MetaMask phishing scam through JavaScript injected on the Coinzilla ad network**. [https://www.theverge.com/2022/5/13/23071786/etherscan-coingecko-crypto-phishing-ad-popup-coinzilla-metamask](https://www.theverge.com/2022/5/13/23071786/etherscan-coingecko-crypto-phishing-ad-popup-coinzilla-metamask)
+    * https://twitter.com/fulldecent/status/1529225944929406977
+* NFT "whitelist"(AKA _access list_)
+    * thank you github for inviting to Copilot and Codespaces preview!
+    * Thank you @miguelmotah / showing off @github codespaces
+    * The implementation is light.art smart contract
+* Dan slides
+    * block quote from Axie dev "move away from 'play-to-earn'"
+
+
+# Episode 24—Living with Will
+
+EPISODE 24 ORIGINALLY AIRED 2022-05-17 / [wrap up Tweet](https://twitter.com/fulldecent/status/1526707610086526976)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1577861634663620608)
+
+NOTES
+
+
+
+* Special guest [https://twitter.com/livingwithwill](https://twitter.com/livingwithwill)
+* Membership NFTs / utility
+    * Discord → gated access
+    * Is BAYC a membership club? A gated community?
+        * Blockchain provides: permissionless way to interop between airdrops, and other stuff (because owner list is public)
+* NFT metadata / is it supposed to not change? @shadowdog
+    * So as the owner of an NFT, I should be able to "move" it to a different URI
+        * Ok-notokaybears // Solana + ethereum blockchain
+* Vitalik's contradictions [https://twitter.com/VitalikButerin/status/1526378787855736832](https://twitter.com/VitalikButerin/status/1526378787855736832)
+* Jared Diamond's Collapse: How Societies Choose to Fail or Survive
+
+TIMELINE
+
+
+
+* 0 Intro
+* 47 Membership NFTs
+* 301 Will is here
+* 407 Should metadata be allowed to change?
+* 862 Okay Bears / Not Okay Bears
+* 969 Vitalik's contradictions
+* 1378 Moral relativism
+* 1774 Our NFT together
+* 1951 V in the room
+* 1956 Ethereum 1.0 should be illegal
+* 1992 Defending the energy use
+* 2118 We got one life
+* 2124 Will checking out
+* 2179 Scope 3 emission reporting
+* 2227 Upgrading
+
+
+# Episode 23—Terra
+
+EPISODE 23 ORIGINALLY AIRED 2022-05-10 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1524164313660936194)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1575691191256895488)
+
+NOTES
+
+
+
+* Terra algorithmic stable coin, how could it possibly drop 30%?
+    * [https://www.coingecko.com/en/coins/terra-usd](https://www.coingecko.com/en/coins/terra-usd)
+    * [https://www.bloomberg.com/opinion/articles/2022-05-10/another-algorithmic-stablecoin-isn-t](https://www.bloomberg.com/opinion/articles/2022-05-10/another-algorithmic-stablecoin-isn-t) 
+    * Unicode ┓ ↴
+* Multiple slurps on a Bored Ape @2urn
+* Larva Labs / V1 / OpenSea
+
+TIMELINE
+
+
+
+* 0 Intro
+* 45 How to algo stablecoins work?
+* 63 Whats wrong with this chart
+* 75 What is a good name for this chart?
+* 83 What are you looking for in a stable coin?
+* 189 How to implement an algorithmic stable coin
+* 576 How does slippage work (Uniswap AND stock market!)
+* 865 Who would participate?
+* 866 Apes slurp juice, copyright, CCO
+* 1122 we value all artistic expression
+
+
+# Episode 22—What is Community Service Hour?
+
+EPISODE 22 ORIGINALLY AIRED 2022-05-03 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1521629389762535424)
+
+
+
+*  / tw
+
+NOTES
+
+
+
+* NFT.nyc speech
+    * Started at NFTnyc 2021
+    * Our progress so far
+    * Announcing: The vision for this group, see 
+
+<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "above"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[above](#heading=h.yya0a0it0z8b)
+* Technical contract questions
+    * Project &lt;-> funding marketplace
+    * [Spend ERC-20 buy ERC-721](https://github.com/fulldecent/spend-ERC20-create-ERC721/blob/master/AriaCertificate.sol)
+    * How to distribute tokens for a "decentralized" project and deployer
+    * The spender role
+* How to do a post-mortem for NFT getting hacked?
+    * See [special sentence](https://eips.ethereum.org/EIPS/eip-721#specification) in ERC-721 Transfer documentation
+    * Situations change VERY fast, hard to plan in advance
+
+TIMELINE
+
+
+
+* 0 Intro
+* 41 Homework assignments
+* 124 Free work for your project
+* 156 Will's background
+* 302 How to get your page in Wikipedia
+* 378 037's question about marketplaces
+* 408 Spend ERC-20s to buy ERC-721s
+* 490 How to decentralize token creation
+* 708 ERC-721 vending machines
+* 893 Where is the big red button if you get hacked
+* 1057 The one trick in ERC-721 spec that helps if you get hacked
+
+
+# Episode 21—Breaking into the industry
+
+EPISODE 21 ORIGINALLY AIRED 2022-04-26 [wrap-up Tweet](https://twitter.com/fulldecent/status/1519090264194887680)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1571225607878344704) 
+
+NOTES
+
+
+
+* Show and tell /[ @dtedesco1](https://twitter.com/dtedesco1) first accepted PR into[ @solidity_lang](https://twitter.com/solidity_lang)
+* The PR [https://github.com/ethereum/solidity/pull/12835](https://github.com/ethereum/solidity/pull/12835)
+* CSH project board [https://github.com/users/fulldecent/projects/2](https://github.com/users/fulldecent/projects/2)
+* How to find and position yourself for an internship in Web3? @tushar_desale
+* Homework anyone can do to boost their profile [https://phor.net/homework.pdf](https://phor.net/homework.pdf)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 43 How to create NFTs
+* 137 Warcraft II anyone?
+* 158 How to get started in open source?
+* 284 Dan's first commit
+* 324 Git is the jungle
+* 402 Why is it a "pull request" and not a "push request"?
+* 458 What is squash and rebase
+* 817 How to get an internship
+* 898 My class homework
+
+
+# Episode 20—DAO vote hacking
+
+EPISODE 20 ORIGINALLY AIRED 2022-04-19 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1516553413747781633)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1570624563570151425)
+
+NOTES
+
+
+
+* The Beanstalk hack was done with vote buying, those are YOUR staked tokens
+    * [https://www.theverge.com/2022/4/18/23030754/beanstalk-cryptocurrency-hack-182-million-dao-voting](https://www.theverge.com/2022/4/18/23030754/beanstalk-cryptocurrency-hack-182-million-dao-voting)
+    * Vote arbitrage on DAOs: "A democracy cannot exist as a permanent form of government. It can only exist until the majority discovers it can vote itself largess out of the public treasury."
+* Security of bridges is related to the ratio of assets under management versus the size of the army watching the vault
+* Iron triangle -- decentralized/scalable/secure
+* Why POS is more centralized than POW
+    * [https://github.com/ethereum/ethereum-org/issues/841](https://github.com/ethereum/ethereum-org/issues/841) 
+
+TIMELINE
+
+
+
+* 132 What is the largest DAO?
+* 191 Analysis of congress applies to DAOs / Beanstalk hack
+* 479 Is PoS is more centralized than PoW?
+* 555 The cost to make a long-running fork of Ethereum PoW
+* 703 Why Ethereum PoS is centralized
+* 873 What is the blockchain trilemma?
+* 909 Fragging and the blockchain trilemma
+* 925 The fundamental scalability trilemma problem of blockchain is the speed of light
+* 1393 Is solar powered Bitcoin farming good?
+* 1436 Why are bridges and Tether insecure?
+
+
+# Episode 19—Reentrancy
+
+Originally aired 2022-04-12 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1514018893513252868)
+
+
+
+* / [tw](https://twitter.com/fulldecent/status/1569161628226129924)
+
+NOTES
+
+
+
+* NFT Tallinn videos https://www.youtube.com/watch?v=V1oqC7ZaLiw
+* Wolf Game reentracncy attack
+    * [https://muellerberndt.medium.com/wolf-game-herdsmans-report-5802c9d477bd](https://muellerberndt.medium.com/wolf-game-herdsmans-report-5802c9d477bd)
+    * [https://twitter.com/not__stoops/status/1462645706775162883](https://twitter.com/not__stoops/status/1462645706775162883)
+    * [https://etherscan.io/address/0xeb834ae72b30866af20a6ce5440fa598bfad3a42#code](https://etherscan.io/address/0xeb834ae72b30866af20a6ce5440fa598bfad3a42#code) 
+* Omnichain
+* [https://medium.com/layerzero-official/layerzero-an-omnichain-interoperability-protocol-b43d2ae975b6](https://medium.com/layerzero-official/layerzero-an-omnichain-interoperability-protocol-b43d2ae975b6)
+* Why do bridges/L2s keep getting hacked?
+
+TIMELINE
+
+
+
+* 0 Intro
+* 40 NFT Tallinn updates
+* 124 Wolf Game hack
+* 171 Is safeTransferFrom bad?
+* 245 Check effects interactions pattern
+* 279 What does a reentrancy vulnerability look like?
+* 381 A CS definition of reentrancy issues
+* 428 A math definition of reentrancy issues
+* 501 What is Ethereum Magicians?
+* 539 What is Ethereum Cat Herders?
+* 784 Kinds of vulnerabilities in bridges
+* 823 Basic attacks on bridges
+
+
+# Episode 18—I got hacked now what?
+
+Originally aired 2022-04-05 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1511231185694908416) 
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1565131722722779138)
+
+NOTES
+
+
+
+* First NFT, thank you [https://twitter.com/VjDeliria](https://twitter.com/VjDeliria)
+* Blog post: ethics statement for buying NFTs [https://blog.phor.net/2022/03/23/Ethics-statement-on-buying-NFTs.html](https://blog.phor.net/2022/03/23/Ethics-statement-on-buying-NFTs.html)
+* How to create a smart contract
+    * Pick a platform [https://drive.google.com/drive/u/0/folders/1Zqz4cYMCObgOTY3W4qLeO1npQpptG2zC](https://drive.google.com/drive/u/0/folders/1Zqz4cYMCObgOTY3W4qLeO1npQpptG2zC)
+    * [https://drive.google.com/drive/u/0/folders/1PASBnEAjBL2igZjfGuzUtDm7QC-m8ngh](https://drive.google.com/drive/u/0/folders/1PASBnEAjBL2igZjfGuzUtDm7QC-m8ngh)
+* Azuki fake drop / What is the most damage you can do with ONE malicious Ethereum transaction?
+    * Targeted to customers of Azuki
+    * Took over Azuki account / fake Tweet to scam website
+    * TX [https://etherscan.io/tx/0x1e505cf5d4fbecaf106a4cc2821166d6f4d9c1d8df3926b4ed689adf2f2bdde2](https://etherscan.io/tx/0x1e505cf5d4fbecaf106a4cc2821166d6f4d9c1d8df3926b4ed689adf2f2bdde2)
+    * Stole Origins NFT from wallet (3 ETH!) / Transferred out NFTs to hardware wallet
+* Looking at the MetaMask window, could I have prevented this?
+* If approve ONE transaction, what is the most damage someone can do?
+* Incident response: things you can do to check if you are safe after an attack
+
+TIMELINE
+
+
+
+* 0 Intro
+* 49 Preparing for NFT Tallinn
+* 57 Blog post: Ethics in buying NFTs
+* 83 The first NFT I bought
+* 143 How to find the spec for writing your own NFT smart contract
+* 273 The easy way to make NFTs
+* 317 Reviewing NFT platforms
+* 480 The fake Azuki airdrop
+* 571 Why people using MetaMask keep getting hacked
+* 630 Getting hacked with a bad transaction
+* 740 How much damage is possible with one malicious TX?
+* 971 How they can do a batch attack
+* 1036 The most damage possible
+* 1061 But will people really do that?
+* 1101 The most damage in one message
+* 1208 Something weights 100 lbs
+
+
+# Episode 17—KYC tokens, ±ratings tokens
+
+Originally aired 2022-03-29 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1508944664379932674)
+
+
+
+*  / [tw](https://twitter.com/fulldecent/status/1562445957400211458)
+* 
+* 
+
+TOPICS
+
+
+
+* How to feel about Play To Earn?
+    * Review DeFi Kingdoms @DefiKingdoms
+    * DeFi Land @DeFi_Land
+    * Formula E High Voltage @FormulaE_HV
+* NFT tokens for compliance (KYC)
+    * Prior art: 0xcert, "mint passes", "KYC tokens", "white list tokens", "proof of X tokens"
+    * ERC-721 mentions this use case (so: you don't need another EIP) 
+    * Badges implementation [https://github.com/fulldecent/solidity-template/blob/main/contracts/Tokens/NonTransferrableERC721.sol](https://github.com/fulldecent/solidity-template/blob/main/contracts/Tokens/NonTransferrableERC721.sol) based on Solmate by @transmissions11	
+    * 0xcert: docs [https://docs.0xcert.org/framework/v2/](https://docs.0xcert.org/framework/v2/)
+    * GenoBank.io Certificates: [https://genobank.io/certificates/](https://genobank.io/certificates/)
+* Non-transferrable fungible tokens
+    * Skateboard club / 100 members / points for posting (karma)
+    * Using scores to rate smart contracts
+    * Prior art: token curated registries
+        * [https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8301.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8301.pdf)
+        * [https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7) by 
+        * [https://staging.0xcert.org/news/token-curated-registries-william-entriken/](https://staging.0xcert.org/news/token-curated-registries-william-entriken/)
+* [https://dandelion.earth](https://dandelion.earth)
+* NFT for identity vs. DID
+    * Direct identity: W3C DID / Microsoft
+    * Delegated identity [https://smarthealth.cards/en/](https://smarthealth.cards/en/)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 44 Drexel 40 under 40
+* 93 play to earn can be illegal in 3 different ways, why stop there?
+* 163 but why is gold farming legal?
+* 287 KYC tokens
+* 501 mint passes
+* 1034 how I stay humble
+* 1102 negative value fungible tokens
+* 1557 open research topics for DAOs
+* 1670 ConstitutionDAO is not a DAO
+* 2010 distributed IDs (DID)
+* 2305 what's wrong with Enterprise Ethereum Alliance
+* 2681 the secret to implementing blockchain QR codes with private data
+
+
+# Episode 16—OpenSea API tricks, production fix
+
+Originally aired 2022-03-22 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1506407008748122120)
+
+Youtube:  https://www.youtube.com/watch?v=UwHIu0dMNEY
+
+*  / [tw](https://twitter.com/fulldecent/status/1560386328411492354)
+
+MENTIONED LINKS
+
+
+
+* OpenSea API [https://docs.opensea.io/reference/api-overview](https://docs.opensea.io/reference/api-overview)
+* GenoBank.io Certificates [https://genobank.io/certificates/](https://genobank.io/certificates/)
+* Solidity Template [https://github.com/fulldecent/solidity-template](https://github.com/fulldecent/solidity-template)
+
+TIMELINE
+
+
+
+* 0 Intro
+* 43 Getting an OpenSea API key 
+* 434 Getting firehose OpenSea access
+* 594 Production application fixes
+* 1019 Solidity Template news
+
+
+# Episode 15—Airdrops, privacy, ransomware
+
+Originally aired 2022-03-15 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1503870364677513217)
+
+
+
+* 
+* 
+
+MENTIONED LINKS
+
+
+
+* Will's travel schedule https://phor.net/#speaking
+* Project board https://github.com/users/fulldecent/projects/2
+
+TIMELINE
+
+
+
+* 0 Intro
+* 92 Infrastructure components for setting up a Web3 project in the enterprise
+* 115 How to make access lists
+* 310 doing a BIG airdrop
+* 661 using centralized images for nfts
+* 844 using indexers for NFTs with 1155
+* 1033 doxing private informatino on the block chain…
+* 1151 does crypto support ransomware?
+* 1318 how to get you FIRST open source commit into the solidity project
+
+
+# Episode 14—All about style
+
+Originally aired 2022-03-08 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1501331515556388864)
+
+
+
+*   
+* 
+
+TOPICS
+
+TIMELINE[https://youtu.be/hdrPkqGloJ0](https://youtu.be/hdrPkqGloJ0)
+
+
+
+* 0 Intro
+* 64 Future blog posts
+* 132 The new blog
+* 158 Are NFTs securities?
+* 220 Why is Will promoting smoking?
+* 395 How to pick a web3 lawyer?
+* 466 Which country should you launch your project in?
+* 522 Who released Hillary Clinton's emails?
+* 611 How to go to jail selling NFTs
+* 640 ERC721a hot take
+* 680 Who is Su?
+* 713 Solidity style guide PR review
+* 1105 ERC721a trick for picking bits
+
+
+# Episode 13—The predictions episode
+
+ORIGINALLY AIRED 2022-03-01 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1498795930463653894)
+
+
+
+* 
+* 
+*  
+
+TOPICS
+
+* predictions for the future of crypto. 
+* Will NFTs crash in 2022? 
+* potential challenges facing this emerging market. 
+* Super Bowl LVI commercials and give our hot takes on projects like Immutable X, chains like Solana, and the future of DAOs. 
+* how to get involved full-time in open source
+* hackathons, and YouTube channels for crypto
+
+
+TIMELINE
+
+
+
+* 0 Intro
+* 47 Will NFTs collapse in 2022?
+* 486 Immutable X hot take
+* 613 Do chains like Solana have a future?
+* 859 DAOs don't seem to work without centralization
+* 1022 How to get involved full time in open source
+* 1333 Hackathons are bad
+* 1362 Hackathons can be good
+* 1628 The only useful crypto info on YouTube
+* 1675 Mini minter
+* 1758 Foundry hot take
+
+LINKS MENTIONED IN SHOW
+
+
+
+* Ethereum Stack Exchange https://ethereum.stackexchange.com
+* ImmutableX https://www.immutable.com
+* Foundry https://github.com/foundry-rs/foundry
+
+
+# Episode 12 2022-02-22
+
+
+# Episode 11 2022-02-15
+
+
+# Episode 10 2022-02-08
+
+
+# Episode 9 2022-02-01
+
+
+# Episode 8 2022-01-25
+
+
+# Episode 7 2022-01-18
+
+
+# Episode 6 2022-01-11
+
+
+# Episode 5 2022-01-04
+
+
+# Episode 4 2021-12-28
+
+
+# Episode 3—Area smart contract review
+
+ORIGINALLY AIRED 2021-12-21 / [wrap-up Tweet](https://twitter.com/fulldecent/status/1473428312718553096/retweets/with_comments) / LinkedIn post
+
+
+
+* 
+* 
+*  
+* [TikTok1](https://www.tiktok.com/@fulldecent/video/7158559374905052458?is_from_webapp=v1&item_id=7158559374905052458) / [TikTok2](https://www.tiktok.com/@fulldecent) / [TikTok3](TikTok3) / [TikTok4](https://www.tiktok.com/@fulldecent/video/7158561397339606314?is_from_webapp=v1&item_id=7158561397339606314) / [TikTok5](https://www.tiktok.com/@fulldecent/video/7158574901262208302?is_from_webapp=v1&item_id=7158574901262208302) / [TikTok6](https://www.tiktok.com/@fulldecent/video/7158575044673948974?is_from_webapp=v1&item_id=7158575044673948974) / [TikTok7](https://www.tiktok.com/@fulldecent/video/7158575340644879658?is_from_webapp=v1&item_id=7158575340644879658) / [TikTok8](https://www.tiktok.com/@fulldecent/video/7158575621612768558?is_from_webapp=v1&item_id=7158575621612768558) / [TikTok9](https://www.tiktok.com/@fulldecent/video/7158575831323807018?is_from_webapp=v1&item_id=7158575831323807018)
+
+TIMELINE
+
+
+
+* 0:00 Intro
+* 0:45 The agenda
+* 2:27 Area contract intro
+* 7:22 Push and pull Ether sending
+* 17:49 Ethereum should be illegal
+* 33:49 Free tool: batch transfer NFTs
+* 44:19 Adidas drop gamed by robot?
+* 73:15 Composing the Tweet
+
+NOTES
+
+
+
+* Area NFT contracts—[https://github.com/LightArtists/area-ethereum-contracts](https://github.com/LightArtists/area-ethereum-contracts) 
+* Solidity Templates—[https://github.com/fulldecent/solidity-template](https://github.com/fulldecent/solidity-template) 
+* Tesla Announces the New Model T—[https://fulldecent.blogspot.com/2021/03/tesla-announces-new-model-t.html](https://fulldecent.blogspot.com/2021/03/tesla-announces-new-model-t.html) 
+* Ethereum updrades (formerly ETH2)—[https://ethereum.org/en/upgrades/](https://ethereum.org/en/upgrades/) 
+* Wikipedia entry on Proof of Stake—[https://en.wikipedia.org/wiki/Proof_of_stake](https://en.wikipedia.org/wiki/Proof_of_stake) 
+* NFT Life—[https://nft.life](https://nft.life) 
+* Wikipedia entry on legality of bitcoin by country—[https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory](https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory) 
+* OpenSea NFT marketplace—[https://opensea.io/](https://opensea.io/) 
+* Comments in package.json—[https://stackoverflow.com/questions/14221579/how-do-i-add-comments-to-package-json-for-npm-install](https://stackoverflow.com/questions/14221579/how-do-i-add-comments-to-package-json-for-npm-install) 
+* Bots overminting in the Adidas NFT drop—[https://nftnow.com/features/nft-drops-are-broken-heres-how-we-fix-them/](https://nftnow.com/features/nft-drops-are-broken-heres-how-we-fix-them/) 
+* OpenZepplin—[https://www.openzeppelin.com/](https://www.openzeppelin.com/) 
+* Hardhat—[http://hardhat.org/](http://hardhat.org/) 
+* NatSpec for Solidity—[https://docs.soliditylang.org/en/latest/natspec-format.html](https://docs.soliditylang.org/en/latest/natspec-format.html) 
+
+TOPICS
+
+
+
+* Review Area NFT smart contract
+* Bitcoin/Ethereum should be illegal because of energy/carbon use
+* The Tesla Model T
+* How to find all your tokens on OpenSea for a collection and transfer them at the lowest cost with nft.life
+* How to set up Mocha for list testing your code
+* Hacking Twitch to let you link to a video recording before it's published
+* Guidelines for Hardhat
+
+
+# Episode 2 2021-12-14
+
+
+# Episode 1—The first Community Service Hour
+
+ORIGINALLY AIRED 2021-12-07 / [wrap-up Tweet](https://twitter.com/SuSquares/status/1483294686936715274) / LinkedIn post
+
+
+
+* Intro of the new show, originally announced at NFT.nyc 2021
+
+
+# YouTube description template
+
+
+## Main video template
+
+PASTE TIMELINE HERE
+
+MAKE SURE FIRST TIMELINE IS 0
+
+Episode XXX originally aired 20XX-XX-XX.
+
+JOIN TUESDAYS AT 6PM NEW YORK
+
+
+
+* [https://phor.net/#hour](https://phor.net/#hour) links & notes for this episode
+* [https://twitter.com/fulldecent](https://twitter.com/fulldecent)
+* [https://www.twitch.tv/fulldecent](https://www.twitch.tv/fulldecent)
+* With your cohosts William Entriken and Daniel Tedesco
+
+MEDIA CREDITS
+
+
+
+* “Block Shape Diamond” by Tamiya, modified, CC BY 4.0[ https://sketchfab.com/3d-models/block-shape-diamond-998a836ab30044178bfe0907c553f096](https://sketchfab.com/3d-models/block-shape-diamond-998a836ab30044178bfe0907c553f096)
+* “Diamond” by DarkPixel Studios, modified, CC BY 4.0[ https://sketchfab.com/3d-models/diamond-fb3bf5e4ac744a13b47a59e07301ce98](https://sketchfab.com/3d-models/diamond-fb3bf5e4ac744a13b47a59e07301ce98)
+* “Sentence photo” by creativeart, modified, https://www.freepik.com/author/creativeart
+* “Scary Island” by Verified Picasso [https://www.youtube.com/watch?v=AbuuY_Zlr0Q](https://www.youtube.com/watch?v=AbuuY_Zlr0Q)
+* “Tech texture vector” by starline[ https://www.freepik.com/free-vector/blue-technology-background-with-circuit-diagram_3086332.htm](https://www.freepik.com/free-vector/blue-technology-background-with-circuit-diagram_3086332.htm)
+* 3D element ETH, hexagon, motion graphics by Gisela Leyva
+
+
+## Teaser video template
+
+PASTE DESCRIPTION HERE
+
+Episode XXX originally aired 20XX-XX-XX.
+
+Full video at XXXXXXXX
+
+JOIN TUESDAYS AT 6PM NEW YORK [https://phor.net/#hour](https://phor.net/#hour)
+
+
+# Checklists
+
+
+## Pre-production
+
+
+
+1. Add SPEED ROUND topics or TOPIC SLIDES to 
+2. Check OBS microphone levels for MICROPHONE and IPHONE SPEAKER
+3. Charge iPad
+
+
+## Production
+
+
+
+1. Share Twitter Spaces as TWEET and DM
+2. Find Community Service Hour tweet (Twitter favorites) and PIN to Spaces
+3. HAVE A GREAT SHOW
+4. Note here if there is anything needed to redact/bleep _____________________
+5. Last question at 0:50
+6. "Please click FOLLOW and then NOTIFY on Twitter + Twitch for next week's episode"
+7. Do Tweet, credit people that stayed–"please RT/mention two people you want to see here next week"
+8. Ask for recommendation to Twitch raid!
+
+
+## Postproduction / debrief
+
+
+
+1. Find two people that recently asked a relevant question on internet and recommend them to a specific part of a past episode
+2. Produce video, post YT, TT?
+3. Post to TW, DC, LI
+4. Update next week's event titles on TW SPACES and DISCORD EVENTS and TWITCH CHANNEL NAME
+5. Set up multichannel audio Ventura OMG / 
+
+
+# Our setup
+
+
+
+* [OBS](https://obsproject.com) / [obs-transition-move plugin](https://obsproject.com/forum/resources/move-transition.913/)
+* [Elmedia Video Player](https://www.elmedia-video-player.com/) (mirror iPhone to Mac)
+* [GSKAIWEN Studio LED Kit](https://amzn.to/3eXJ3Xy) / [Alexis iO2 USB audio](https://www.alesis.com/products/legacy/io2) / Samson microphone / [Lavalier Lapel mic](https://amzn.to/3MWMl9U)
+* Twitch / Twitter Spaces / Discord event
+* OBS / 1 stream audio / 2 vocal mic / 3 aux mic / 4 laptop mic / 5 desktop audio / 6 other audio
+
+
+# How you can help grow Community Service Hour
+
+
+
+1. Dan: can you please help with [https://github.com/fulldecent/podcast.phor.net/](https://github.com/fulldecent/podcast.phor.net/)
+    1. Timeline 
+        1. Paste in YouTube time code
+    2. Description
+2. Find any question we answered [in our published videos](https://www.youtube.com/playlist?list=PLaMigeN8Exx-ChNPpO-j6pFQ3F8oJWrBN), search the internet for someone else asking that question, and send our answer/discussion to them
+3. Take [one of our videos](https://www.youtube.com/playlist?list=PLaMigeN8Exx-ChNPpO-j6pFQ3F8oJWrBN), excerpt it, add subtitles in Chinese, and send to Will to post on [his 抖音 account](https://v.douyin.com/kHrv9BC/) 
+4. Reach out to one of our potential guest short list and invite them to join CSH:
+    3. Beeple
+    4. Zach Burks (@ZachSpaded)
+    5. Kevin Rose – [https://podcasts.proof.xyz/](https://podcasts.proof.xyz/)
+    6. Kevin Owocki
+        2. Dapplearning
+    7. Jamie?
+    8. Neeraj
+    9. Amit (invited)
+    10. Lisa Tan // economics design // Keifer
+    11. Ben – Kazm
+    12. Tobias – Kryha
+    13. Yan – Dapp-learning
+    14. Jason Noronha – Akin
+    15. Tobias – Kryha
+    16. Cent – Metagov
+    17. Michael Du – Crypto Tricks
+
+<table>
+  <tr>
+   <td>
+<p style="text-align: right">
+<strong>To</strong></p>
+
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>Cc</strong></p>
+
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>Bcc</strong></p>
+
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>Subject</strong></p>
+
+   </td>
+   <td>Invitation for Community Service Hour show
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Hi [NAME],
+<p>
+40 episodes, lead author of ERC-721
+<p>
+Join for a chat
+<p>
+Call for support
+   </td>
+  </tr>
+</table>
+
+
+Send headshot
+
+If spirit, work on the landing page
