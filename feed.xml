@@ -30,7 +30,7 @@
         length="{{ episode.enclosure-length | escape }}"
         type="{{ episode.enclosure-type }}"
       />
-      <guid>{{ episode.guid | escape }}</guid>
+      <guid isPermaLink="false">{{ episode.guid | escape }}</guid>
       <pubDate>{{ episode.pubDate | escape }}</pubDate>
       <itunes:duration>{{ episode.itunes-duration | escape }}</itunes:duration>
       <itunes:explicit>{{ episode.itunes-explicit | escape }}</itunes:explicit>
