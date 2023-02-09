@@ -3,9 +3,9 @@ guid: "UPDATE THIS"
 title: "GET FROM GDOC"
 description: "FILL THIS IN"
 pubDate: "CONVERT THIS FROM THE EPISODE DATE AND RFC FORMAT" # 6pm New York time
-itunes-explicit: false
+itunes-explicit: "no"
 itunes-episode: GET_FROM_GDOC
-itunes-episodeType: Full
+itunes-episodeType: full
 
 # More info
 youtube-full: GET_FROM_GDOC
@@ -34,9 +34,9 @@ Proper result is in this template format:
 title: "[EPISODE NAME]" # Exclude the episode number, keep only the title.
 description: "[GENERATE AN INTRIGUING, TWO TWEET-LONG DESCRIPTION BASED ON THE EPISODE CONTENT]"
 pubDate: "[DDD, DD MM YYYY 18:00:00 -0500]" # 6pm New York time
-itunes-explicit: false
+itunes-explicit: "no"
 itunes-episode: [EPISODE NUMBER]
-itunes-episodeType: Full
+itunes-episodeType: full
 
 # More info
 youtube-full: [YOUTUBE LINK] # Input the proper link found in the notes. Do not enclose in quotes.
