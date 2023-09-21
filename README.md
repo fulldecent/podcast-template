@@ -1,3 +1,13 @@
+demo site https://fulldecent.github.io/podcast.phor.net/
+
+This GitHub repo is a reusable template that everybody should use for publishing their podcast.
+
+Own your platform and publish from your own domain name.
+
+* Supports all major podcast platforms
+* Supports (that podcast metadata standardization project)
+* Advises you on how to best format your media to meet Apple Podcasts requirements (incl. loudness) and other best practices, like chapter markers
+
 # podcast.phor.net
 
 This is a reusable project template to self-publish your YouTube channel or other audio files as a podcast. Output fully complies with Apple Podcasts for Creators [RSS feed requirements](https://podcasters.apple.com/support/823-podcast-requirements).
