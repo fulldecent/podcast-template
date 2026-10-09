@@ -265,7 +265,7 @@ We specifically will not add comments, a second media host, or a feed that diver
 ## References
 
 1. We use title case only for proper nouns, including the name of our project.
-1. This project is built based on [best practices documented in project-template](https://github.com/fulldecent/project-template), release 1.3.0.
+1. This project is built based on [best practices documented in project-template](https://github.com/fulldecent/project-template), release v1.3.0.
 1. [EditorConfig](.editorconfig), the lint workflow, and the release workflow are taken from that release. [.gitignore](.gitignore) starts with that file and then follows [GitHubPages.gitignore](https://github.com/github/gitignore/blob/main/GitHubPages.gitignore).
 1. We use the github-pages gem at the version on [pages.github.com/versions.json](https://pages.github.com/versions.json). GitHub Pages ignores `Gemfile.lock`. [pages-gem issue 768](https://github.com/github/pages-gem/issues/768)
 1. [rv](https://github.com/spinel-coop/rv) is how we install that Ruby. Homebrew's `bundle` is a different interpreter than [.ruby-version](.ruby-version).
