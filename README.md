@@ -217,6 +217,24 @@ The [release workflow](.github/workflows/release.yml) uses Release Please's `sim
 > In your GitHub repository settings, under Actions, General, Workflow permissions, select read and write permissions and check "Allow GitHub Actions to create and approve pull requests". Under General, Releases, enable release immutability. Attestations are available for public repositories; private repositories require GitHub Enterprise Cloud.
 >
 > A repository created from this template starts with no tags and no releases. Release Please reads the latest tag on the default branch to choose the next version. The publish job accepts a tag shaped like `v1.2.3`.
+>
+> Run these commands from a clone of the new repository. `gh` fills in `{owner}/{repo}` from that clone.
+>
+> List tags:
+>
+> ```sh
+> gh api repos/{owner}/{repo}/tags --jq '.[].name'
+> ```
+>
+> Set the starting tag on the current `main` commit. `v0.0.0` is the version Release Please counts forward from. Use another `vMAJOR.MINOR.PATCH` tag when this repository should start later.
+>
+> ```sh
+> gh api --method POST repos/{owner}/{repo}/git/refs \
+>   -f ref="refs/tags/v0.0.0" \
+>   -f sha="$(gh api repos/{owner}/{repo}/commits/main --jq .sha)"
+> ```
+>
+> `gh release list` and `gh release create` publish the releases this workflow creates after that tag.
 
 ### Maintenance
 
