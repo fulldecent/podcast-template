@@ -1,8 +1,25 @@
-_site
-/vendor
-Gemfile.lock # Because GitHub Pages does not consider that file when building
-/.bundle
+# macOS
+.DS_Store
 
-#
+# Secrets. .env.example is the committed sample.
+.env
+.env.*
+!.env.example
+
+# https://github.com/github/gitignore/blob/main/GitHubPages.gitignore
+# GitHub Pages uses its own pages-gem and ignores Gemfile.lock.
+# https://github.com/github/pages-gem/issues/768
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+Gemfile.lock
+
+# Release artifacts
+/dist/
+
+# Local chapter scratch files
 /chapters.txt
 /chapters.ffmetadata

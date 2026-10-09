@@ -30,7 +30,8 @@ itunes-duration: NEED_FINAL_FILE_WITH_METADATA_FOR_THIS
 Can you generate the proper YAML output based on the below?
 
 Proper result is in this template format:
-```
+
+```yaml
 title: "[EPISODE NAME]" # Exclude the episode number, keep only the title.
 description: "[GENERATE AN INTRIGUING, TWO TWEET-LONG DESCRIPTION BASED ON THE EPISODE CONTENT]"
 pubDate: "[DDD, DD MM YYYY 18:00:00 -0500]" # 6pm New York time
@@ -52,7 +53,8 @@ timeline:
 ```
 
 Raw data is here:
-```
+
+```text
 ```
 
 Please generate a proper YAML output codeblock for the raw data according to the template format.

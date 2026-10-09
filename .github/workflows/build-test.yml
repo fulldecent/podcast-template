@@ -1,0 +1,99 @@
+# Build and test
+#
+# Build the Jekyll site, SLSA attest the feed, and test the project.
+#
+# Ruby is the version GitHub Pages publishes at https://pages.github.com/versions.json
+# The github-pages gem version is pinned in the Gemfile for the same reason.
+# GitHub Pages ignores Gemfile.lock: https://github.com/github/pages-gem/issues/768
+#
+# This workflow produces the following things which release.yml consumes:
+#   1. $.jobs.build-test (this exact job ID)
+#   2. The artifact named "build"
+#
+# Public repositories can use attest for free. Private repos require Enterprise Cloud.
+
+name: Build and test
+
+on:
+  workflow_call:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build-test:
+    name: Build and test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+      attestations: write
+      artifact-metadata: write
+    steps:
+      - name: Check out this commit
+        uses: actions/checkout@v7
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: .ruby-version
+
+      - name: Install gems
+        run: bundle install
+
+      - name: Build
+        run: |
+          bundle exec jekyll build
+          mkdir -p dist
+          cp _site/feed.xml dist/feed.xml
+
+      # The assertions describe the sample show committed in this repository.
+      # Replace them when you replace _data/channel.yml and _episodes/.
+      - name: Test
+        run: |
+          python3 - <<'PY'
+          import pathlib
+          import xml.etree.ElementTree as ET
+
+          root = ET.parse("dist/feed.xml").getroot()
+          channel = root.find("channel")
+          itunes = {"itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"}
+          assert channel.find("title").text == "Community Service Hour"
+          assert (
+              channel.find("itunes:new-feed-url", itunes).text
+              == "https://hour.gg/podcast.xml"
+          )
+          items = channel.findall("item")
+          assert len(items) == 2, len(items)
+          for item in items:
+              enclosure = item.find("enclosure")
+              assert enclosure.get("url")
+              assert int(enclosure.get("length")) > 0
+              assert enclosure.get("type") == "audio/x-m4a"
+              assert item.find("guid").text
+          PY
+          test -s _site/index.html
+          test -s _site/ffmetadata/2023-01-03-episode-57.txt
+          grep -q FFMETADATA1 _site/ffmetadata/2023-01-03-episode-57.txt
+          printf '00:00 Intro\n01:00 Next\n' | node text-to-ffmetadata.js | grep -q FFMETADATA1
+
+      - name: Attest the build
+        id: attest
+        uses: actions/attest@v4
+        with:
+          subject-path: dist/*
+
+      # After attesting, so the bundle is not one of its own subjects.
+      - name: Add the attestation to the build
+        env:
+          BUNDLE: ${{ steps.attest.outputs.bundle-path }}
+        run: cp "$BUNDLE" dist/attestation.sigstore.json
+
+      - name: Upload the build
+        uses: actions/upload-artifact@v7
+        with:
+          name: build
+          path: dist/
+          if-no-files-found: error
+          retention-days: 14
