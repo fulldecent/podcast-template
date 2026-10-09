@@ -216,7 +216,7 @@ The [release workflow](.github/workflows/release.yml) uses Release Please's `sim
 > [!NOTE]
 > In your GitHub repository settings, under Actions, General, Workflow permissions, select read and write permissions and check "Allow GitHub Actions to create and approve pull requests". Under General, Releases, enable release immutability. Attestations are available for public repositories; private repositories require GitHub Enterprise Cloud.
 >
-> A repository created from this template starts with no tags and no releases. Release Please reads the latest tag on the default branch to choose the next version. A repository with no tag gets a first release pull request for 1.0.0 when a commit uses `feat:` or `BREAKING CHANGE:`. The publish job accepts a tag shaped like `v1.2.3`.
+> A repository created from this template starts with no tags and no releases. Release Please reads the latest tag on the default branch to choose the next version. The publish job accepts a tag shaped like `v1.2.3`.
 
 ### Maintenance
 
