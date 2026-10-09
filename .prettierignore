@@ -6,3 +6,4 @@ node_modules
 yarn.lock
 channel.jpg
 CHANGELOG.md
+_layouts/chapters.html

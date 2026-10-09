@@ -85,5 +85,18 @@ jobs:
           test -s _site/ffmetadata/2023-01-03-episode-57.txt
           grep -q FFMETADATA1 _site/ffmetadata/2023-01-03-episode-57.txt
           test -s _site/chapters/2023-01-03-episode-57.json
-          python3 -c "import json,pathlib; json.loads(pathlib.Path('_site/chapters/2023-01-03-episode-57.json').read_text())"
+          python3 - <<'PY'
+          import json
+          import pathlib
+
+          data = json.loads(pathlib.Path("_site/chapters/2023-01-03-episode-57.json").read_text())
+          intro = data["chapters"][0]
+          assert intro["startTime"] == 0
+          assert intro["title"] == "Intro"
+          assert intro["img"] == "https://podcast.phor.net/channel.jpg"
+          second = data["chapters"][1]
+          assert second["startTime"] == 41
+          assert second["title"] == "How to say Qumosi"
+          assert "img" not in second
+          PY
           printf '00:00 Intro\n01:00 Next\n' | node text-to-ffmetadata.js | grep -q FFMETADATA1

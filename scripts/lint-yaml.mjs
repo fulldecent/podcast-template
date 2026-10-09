@@ -18,16 +18,12 @@ function load(path, text) {
 
 function frontMatter(path) {
   const text = readFileSync(path, "utf8");
-  if (!text.startsWith("---\n") && !text.startsWith("---\r\n")) {
-    errors.push(`${path}: missing YAML front matter`);
+  const match = text.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
+  if (!match) {
+    errors.push(`${path}: missing or unclosed YAML front matter`);
     return;
   }
-  const end = text.indexOf("\n---", 4);
-  if (end === -1) {
-    errors.push(`${path}: unclosed YAML front matter`);
-    return;
-  }
-  load(path, text.slice(4, end));
+  load(path, match[1]);
 }
 
 for (const name of ["_config.yml"]) {

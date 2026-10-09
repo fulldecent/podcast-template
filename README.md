@@ -53,6 +53,7 @@ Create the repository with **Use this template** on [podcast-template](https://g
 brew install rv ffmpeg fnm
 rv ruby install
 rv run bundle install
+eval "$(fnm env)"
 fnm install
 fnm use
 corepack enable
@@ -71,13 +72,17 @@ Install [rv from its releases](https://github.com/spinel-coop/rv/releases), then
 
 ```powershell
 winget install --exact --id Gyan.FFmpeg
-rv ruby install
-rv run bundle install
+winget install --exact --id Schniz.fnm
+rvw ruby install
+rvw run bundle install
+fnm env --use-on-cd | Out-String | Invoke-Expression
+fnm install
+fnm use
 corepack enable
 yarn install
 ```
 
-In PowerShell, `rv` is the alias for `Remove-Variable`. The rv project uses `rvw` there.
+In PowerShell, `rv` is the alias for `Remove-Variable`. The rv project uses `rvw` there. [fnm](https://github.com/Schniz/fnm) reads [.node-version](.node-version).
 
 ### Build the site
 
