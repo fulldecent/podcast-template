@@ -1,0 +1,36 @@
+{
+  "--": [
+    "Notes:",
+    "",
+    "Script argument handling:",
+    "- yarn lint and yarn format pass extra arguments through to Prettier and markdownlint.",
+    "- If no files were given, the prettier scripts set -- . then forward \"$@\".",
+    "",
+    "Markdown:",
+    "- Markdown is formatted by markdownlint, not Prettier. .prettierignore lists *.md.",
+    "",
+    "YAML:",
+    "- yarn lint:yaml parses _config.yml, _data/*.yml, and front matter in _episodes/*.md.",
+    "- _drafts/ is skipped because the episode starter is incomplete on purpose."
+  ],
+  "name": "podcast-template",
+  "private": true,
+  "license": "MIT",
+  "packageManager": "yarn@4.18.0",
+  "devDependencies": {
+    "js-yaml": "^4.1.1",
+    "markdownlint-cli": "^0.45.0",
+    "prettier": "^3.6.2"
+  },
+  "scripts": {
+    "lint": "sh -c 'yarn lint:prettier \"$@\" && yarn lint:markdown \"$@\" && yarn lint:yaml' --",
+    "lint:prettier": "sh -c 'if [ $# -eq 0 ]; then set -- .; fi; yarn prettier --check \"$@\"' --",
+    "lint:markdown": "sh -c 'if [ $# -eq 0 ]; then yarn markdownlint \"**/*.md\"; else for file in \"$@\"; do case \"$file\" in *.md) yarn markdownlint \"$file\";; esac; done; fi' --",
+    "lint:yaml": "node scripts/lint-yaml.mjs",
+    "format": "sh -c 'yarn format:prettier \"$@\" && yarn format:markdown \"$@\"' --",
+    "format:prettier": "sh -c 'if [ $# -eq 0 ]; then set -- .; fi; yarn prettier --write \"$@\"' --",
+    "format:markdown": "sh -c 'if [ $# -eq 0 ]; then yarn markdownlint --fix \"**/*.md\"; else for file in \"$@\"; do case \"$file\" in *.md) yarn markdownlint --fix \"$file\";; esac; done; fi' --",
+    "build": "rv run bundle exec jekyll build",
+    "dev": "rv run bundle exec jekyll serve"
+  }
+}

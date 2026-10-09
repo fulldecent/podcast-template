@@ -5,7 +5,7 @@
 # TODO: improve this by make only parsing the optional tags if they are set
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>{{ site.data.channel.title | escape }}</title>
     <description>{{ site.data.channel.description | escape }}</description>
@@ -40,6 +40,10 @@
       <itunes:explicit>{{ episode.itunes-explicit | escape }}</itunes:explicit>
       <itunes:episode>{{ episode.itunes-episode | escape }}</itunes:episode>
       <itunes:episodeType>{{ episode.itunes-episodeType | escape }}</itunes:episodeType>
+      {% if episode.timeline -%}
+      {% assign chapter_file = episode.path | split: "/" | last | replace: ".md", ".json" -%}
+      <podcast:chapters url="{{ site.url }}{{ site.baseurl }}/chapters/{{ chapter_file }}" type="application/json+chapters" />
+      {% endif -%}
       <description>
         <![CDATA[
 {% if episode.description -%}

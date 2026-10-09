@@ -1,1 +1,9 @@
 *.md
+_site
+vendor
+node_modules
+.yarn
+yarn.lock
+channel.jpg
+CHANGELOG.md
+_layouts/chapters.html

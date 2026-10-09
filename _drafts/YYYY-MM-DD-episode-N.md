@@ -15,7 +15,11 @@ youtube-full: GET_FROM_GDOC
 discussion: GET_TWITTER_WRAP_UP_LINK_FROM_GDOC
 
 # Timeline
+# image is optional. When set, it is copied into the Podcasting 2.0 chapters JSON as img.
 timeline:
+  # - seconds: 0
+  #   title: Intro
+  #   image: https://example.com/chapters/intro.jpg
 # USE CODEX TO CONVERT YOUTUBE FORMAT TO REQUIRED FORMAT HERE
 
 # File information

@@ -1,0 +1,12 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {%- for chapter in page.timeline %}
+    {
+      "startTime": {{ chapter.seconds }}{% if chapter.title %},
+      "title": {{ chapter.title | jsonify }}{% endif %}{% if chapter.image %},
+      "img": {{ chapter.image | jsonify }}{% endif %}
+    }{%- unless forloop.last %},{% endunless %}
+    {%- endfor %}
+  ]
+}

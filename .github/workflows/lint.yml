@@ -4,7 +4,6 @@ on:
   push:
     branches: ["main"]
   pull_request:
-    # Runs on all pull requests targeting any branch
     branches: ["**"]
 
 permissions:
@@ -12,22 +11,25 @@ permissions:
 
 jobs:
   lint:
-    name: Prettier & Markdownlint
+    name: Prettier, Markdownlint, YAML
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v7
 
-      - name: Setup Node.js (tool runtime)
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Setup Node.js
         uses: actions/setup-node@v7
         with:
-          node-version: "lts/*" # Floating version is appropriate specifically for Prettier and markdownlint
+          node-version-file: .node-version
+          cache: yarn
+          cache-dependency-path: yarn.lock
 
-      - name: Check formatting (Prettier)
-        # Command fails if any files do not meet the formatting rules.
-        run: npx prettier@latest --check .
+      - name: Install dependencies
+        run: yarn install --immutable
 
-      - name: Check Markdown (markdownlint)
-        # Command fails if any markdown files do not meet the linting rules.
-        run: npx markdownlint-cli@latest "**/*.md"
+      - name: Lint
+        run: yarn lint
