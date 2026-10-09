@@ -1,3 +1,6 @@
+# Replace with your site URL. Used for the Atom self link and chapter JSON URLs.
+url: https://podcast.phor.net
+
 # Repository files, not pages. CNAME stays so GitHub Pages keeps the custom domain.
 exclude:
   - CHANGELOG.md
@@ -5,14 +8,20 @@ exclude:
   - LICENSE.md
   - Gemfile
   - Gemfile.lock
+  - package.json
+  - yarn.lock
   - text-to-ffmetadata.js
+  - scripts
   - vendor
   - node_modules
+  - cache
 
 collections:
   episodes:
     output: true
   ffmetadata:
+    output: true
+  chapters:
     output: true
 
 defaults:
@@ -27,3 +36,9 @@ defaults:
     values:
       layout: ffmetadata
       permalink: /ffmetadata/:path.txt
+  - scope:
+      path: ""
+      type: chapters
+    values:
+      layout: chapters
+      permalink: /chapters/:path.json
