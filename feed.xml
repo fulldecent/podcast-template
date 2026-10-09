@@ -21,7 +21,9 @@
     </itunes:owner>
     <itunes:type>{{ site.data.channel.itunes-type | escape }}</itunes:type>
     <copyright>{{ site.data.channel.copyright | escape }}</copyright>
-    <itunes:new-feed-url>https://hour.gg/podcast.xml</itunes:new-feed-url>
+    {% if site.data.channel.itunes-new-feed-url -%}
+    <itunes:new-feed-url>{{ site.data.channel.itunes-new-feed-url | escape }}</itunes:new-feed-url>
+    {% endif -%}
     <atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml" />
 
     {% for episode in site.episodes %}

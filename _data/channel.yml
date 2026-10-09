@@ -1,33 +1,31 @@
-# These are the channel-level tags for the podcast feed
-# We recognize Apple's specification for iTunes tags.
-# Defined at: https://help.apple.com/itc/podcasts_connect/#/itcb54353390
+# Channel-level tags for the podcast feed.
+# Apple's tag list: https://podcasters.apple.com/support/823-podcast-requirements
 
-
-# Required tags ################################################################
+# Required tags
 
 title: "Community Service Hour"
 
-# TODO: this supports text for now, to support HTML we need to use CDATA
-# The maximum amount of text allowed for this tag is 4000 bytes.
+# Plain text. Apple allows 4000 bytes. HTML would need a CDATA description in feed.xml.
 description: "We take questions, discuss the scene last week, blog and do projects. Live show every Tuesday @ 6pm New York time. With your cohosts William Entriken (lead author of ERC-721) and Daniel Tedesco."
 
 itunes-image: "https://podcast.phor.net/channel.jpg"
-language: "en-us"
-itunes-category: "Technology" # The repo only supports one category, but Apple supports multiple
-itunes-explicit: "no" # Apple docs say to use "false" but EVERYBODY is using "no" https://github.com/search?q=%22itunes%3Aexplicit%22&type=code
+language: "en-US"
+# This template emits one category. Apple allows more than one.
+itunes-category: "Technology"
+# Apple's specification says true or false. Feeds in the wild send yes or no, and Apple accepts no.
+# https://github.com/search?q=%22itunes%3Aexplicit%22&type=code
+itunes-explicit: "no"
 itunes-author: "William Entriken"
 link: "https://phor.net/#hour"
 itunes-owner-name: "William Entriken"
 itunes-owner-email: "csh-feed-owner@phor.net"
 
 # Situational tags
-# itunes-title:
+
 itunes-type: "episodic"
 copyright: Copyright William Entriken
-#itunes-new-feed-url: 
-#itunes-block:
-#itunes-complete:
+itunes-new-feed-url: "https://hour.gg/podcast.xml"
 
-link: "https://phor.net/#hour"
-pub-date: "2023-01-01T00:00:00+00:00"
-language: "en-US"
+# Shown on the episode list. Omit a key to hide that link.
+apple-podcasts-url: "https://podcasts.apple.com/us/podcast/community-service-hour/id1662422217"
+spotify-url: "https://open.spotify.com/show/3k4PnmjfLiuNo9HpXemCdJ"

@@ -1,3 +1,14 @@
+# Repository files, not pages. CNAME stays so GitHub Pages keeps the custom domain.
+exclude:
+  - CHANGELOG.md
+  - README.md
+  - LICENSE.md
+  - Gemfile
+  - Gemfile.lock
+  - text-to-ffmetadata.js
+  - vendor
+  - node_modules
+
 collections:
   episodes:
     output: true
@@ -5,14 +16,12 @@ collections:
     output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: episodes
     values:
       layout: episode
-  - 
-    scope:
+  - scope:
       path: ""
       type: ffmetadata
     values:
